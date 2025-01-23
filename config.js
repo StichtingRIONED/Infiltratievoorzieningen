@@ -13,12 +13,20 @@ var respecConfig =
     company: "Stichting RIONED",
     companyURL: "https://www.riool.net"
   }],
-  authors: [{
-    name: "Wouter van Riel",
-    url: "mailto:wouter.van.riel@infralytics.org",
-    company: "infralytics",
-    companyURL: "https://www.infralytics.org"
-  }],
+  authors: [
+      {
+        name: "Wouter van Riel",
+        url: "mailto:wouter.van.riel@infralytics.org",
+        company: "infralytics",
+        companyURL: "https://www.infralytics.org"
+      },
+      {
+        name: "Erwin Stamsnijder",
+        url: "mailto:erwin.stamsnijder@tauw.com",
+        company: "Tauw",
+        companyURL: "https://www.tauw.nl"
+      }
+    ],
   otherLinks: [{
     key: "GitHub", href: "https://github.com/stichtingrioned/Beheer_Infiltratievoorzieningen/"
   }],
