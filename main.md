@@ -185,7 +185,7 @@ Een begroeide, onverharde greppel / sloot, waarin het hemelwater tijdelijk wordt
 
 ## Infiltratieberm
 <br>
-<img src="media/voorzieningen/infiltratiegreppel.png" style="width:11in"  alt="Infiltratieberm"/>
+<img src="media/voorzieningen/infiltratieberm.png" style="width:11in"  alt="Infiltratieberm"/>
 
 <div class="box">
 <span class="blue">Definitie Infiltratieberm</span>
@@ -218,7 +218,7 @@ Een verticaal in de grond aangebrachte infiltratieriool of infiltratieput, waari
 
 ## Infiltratiekolkvoorziening
 <br>
-<img src="media/voorzieningen/infiltratierioolvoorziening.png" style="width:11in"  alt="Infiltratiekolkvoorziening"/>
+<img src="media/voorzieningen/infiltratiekolkvoorziening.png" style="width:11in"  alt="Infiltratiekolkvoorziening"/>
 
 <div class="box">
 <span class="blue">Definitie Infiltratiekolkvoorziening</span>
@@ -284,7 +284,7 @@ Een halfverharding en eventueel cunet bestaande uit substraat met een hoge poros
 
 ## Infiltratiecunet
 <br>
-<img src="media/voorzieningen/waterbergendefundatie.png" style="width:11in"  alt="Infiltratiecunet"/>
+<img src="media/voorzieningen/infiltratiecunet.png" style="width:11in"  alt="Infiltratiecunet"/>
 
 <div class="box">
 <span class="blue">Definitie Infiltratiecunet</span>
