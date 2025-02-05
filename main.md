@@ -70,32 +70,75 @@ Daarnaast levert het een voorzet over hoe dit in het GWSW deelmodel en in het IM
 
 # Beoogde toepassing
 
-- Uitbreiden van termen en difinities: rijker maken van het woordenboek
+- Uitbreiden van termen en definities: rijker maken van het woordenboek
 - Beschrijving opstellen zodat hydraulische modellering van infiltratievoorzieningen mogelijk wordt
-- Beschrijving zodat beheermaatregelen mogelijk zijn
+- Beschrijving zodat registratie van beheermaatregelen mogelijk zijn
 
 
 # Afbakening
 
-De volgende soorten infiltratievoorzieningen zullen worden meegenomen.
+In het GWSW en de Kennisbank van Stichting RIONED staan verschillende benamingen, definities, functies en onderdelen van infiltratievoorzieningen. Voor meer inzicht in deze verschillen zijn deze hier uitgewerkt. Dit kan ook worden gebruikt als toelichting op keuzes voor naamgeving en definities van voorzieningen.
 
-Bron?
+In onderstaande tabel staan de verschillende benamingen van infiltratievoorzieningen zoals deze nu in de Kennisbank en GWSW zijn beschreven.
 
-| Categorie                     | Infiltratievoorziening                           | Beschrijving                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|-------------------------------|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Groene infiltratievelden      | Wadi                                             | Een verdiept (beplant) terrein,  bestemd om het hemelwater tijdelijk te bergen en in de bodem te laten infiltreren. De bodem van de wadi is aangepast om hemelwater te kunnen infiltreren en vast te houden, bijvoorbeeld met een infiltratiebed of infiltratiekratten.                                                                                                                                                                                                        |
-| Groene infiltratievelden      | Infiltratieveld                                  | Een verdiept terrein, bestemd om het hemelwater tijdelijk te bergen en in de bodem te laten infiltreren. Er is een waterdoorlatende bodem.                                                                                                                                                                                                                                                                                                                                     |
-| Groene infiltratievelden      | Infiltratiegreppel                               | Gelijk aan infiltratieveld, maar dan in de vorm van een greppel.                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Groene infiltratievelden      | Infiltratieberm                                  | Gelijk aan infiltratieveld, maar dan in de vorm van een berm.                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Horizontale infiltratiebuizen | Infiltratieriool                                 | Een rioolleiding met waterdoorlatende wanden bestemd voor de inzameling en transport van hemelwater, waarbij het hemelwater door middel van infiltratie door de wanden kan worden afgevoerd. Kan ook beschouwd worden als een soort infiltratievoorziening.                                                                                                                                                                                                                    |
-| Verticale infiltratiebuizen   | Infiltratieput                                   | Een put met waterdoorlatende wanden bestemd voor de inzameling van hemelwater, waarbij het hemelwater door middel van infiltratie door de wanden kan worden afgevoerd                                                                                                                                                                                                                                                                                                          |
-| Holle ruimte voorzieningen    | Infiltratie-unit                                 | Een constructie die een ondergrondse open ruimte geeft en waterdoorlatende wanden heeft, waarbij het hemelwater door middel van infiltratie door de wanden kan worden afgevoerd.                                                                                                                                                                                                                                                                                               |
-| Holle ruimte voorzieningen    | Infiltratiekoffer                                | Een infiltratiekoffer is een constructie die met een aggregaat gevuld is. De infiltratiekoffer kan water bufferen. Het aggregaat kan bestaan uit verschillende materialen, zoals grind, lava-slakken, geëxpandeerde kleikorrels en puin. Ook bestaan er toepassingen met steenwol. De holle ruimten tussen het aggregaat bufferen het regenwater, waarna het water in de bodem kan infiltreren. Een drain in het aggregaat kan voor de invoer en afvoer van regenwater zorgen. |
-| Infiltrerende wegconstructies | Waterdoorlatende verharding (poreuze steen)      | Een waterdoorlatende verharding bestaat uit poreus (bestratings)materiaal dat regenwater doorlaat. Hieronder ligt een wegfundering die het infiltrerende hemelwater kan bergen en infiltreren.                                                                                                                                                                                                                                                                                 |
-| Infiltrerende wegconstructies | Waterdoorlatende verharding (infiltrerende voeg) | De waterpasserende verharding heeft vergrote voegen. De stenen hebben nokken aan de zijkant waardoor het water passeert, of er is op een andere wijze gezorgd voor infiltratie via de voeg. Hieronder ligt een wegfundering die het infiltrerende hemelwater kan bergen en infiltreren.                                                                                                                                                                                        |
-| Infiltrerende wegconstructies | Halfverharding                                   | Halfverharding bestaat uit doorlatend materiaal aan het maaiveld. Hieronder ligt een wegfundering die het infiltrerende hemelwater kan bergen en infiltreren.                                                                                                                                                                                                                                                                                                                  |
+| Type                          | Kennisbank                                                                                                                                                                                                                                                                                          | GWSW                                                                                                                      |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Groene infiltratievelden      | <a href="https://www.riool.net/kennisbank/water-en-klimaat/stelsels-en-voorzieningen-in-het-stedelijk-watersysteem/voorzieningen-in-een-stedelijk-watersysteem/beschrijving-van-een-wadi" target="_blank">Wadi</a>                                                                                  | <a href="https://data.gwsw.nl/totaal/Wadi" target="_blank">Wadi</a>                                                       |
+| Groene infiltratievelden      | <a href="https://www.riool.net/kennisbank/water-en-klimaat/stelsels-en-voorzieningen-in-het-stedelijk-watersysteem/voorzieningen-in-een-stedelijk-watersysteem/beschrijving-van-een-infiltratieveld" target="_blank">Infiltratieveld</a>                                                            |                                                                                                                           |
+| Groene infiltratievelden      | <a href="https://www.riool.net/kennisbank/water-en-klimaat/stelsels-en-voorzieningen-in-het-stedelijk-watersysteem/voorzieningen-in-een-stedelijk-watersysteem/beschrijving-van-een-greppel" target="_blank">Greppel</a>                                                                            | <a href="https://data.gwsw.nl/totaal/Infiltratiegreppel" target="_blank">Infiltratiegreppel</a>                           |
+| Groene infiltratievelden      | <a href="https://www.riool.net/kennisbank/water-en-klimaat/stelsels-en-voorzieningen-in-het-stedelijk-watersysteem/voorzieningen-in-een-stedelijk-watersysteem/beschrijving-van-een-infiltrerende-berm" target="_blank">Infiltratieberm* en (infiltrerende) berm</a>                                | <a href="https://data.gwsw.nl/totaal/Bermsloot" target="_blank">Bermsloot</a>                                             |
+| Horizontale infiltratiebuizen | <a href="https://www.riool.net/kennisbank/water-en-klimaat/stelsels-en-voorzieningen-in-het-stedelijk-watersysteem/voorzieningen-in-een-stedelijk-watersysteem/beschrijving-van-een-infiltratieriool" target="_blank">Infiltratieriool</a>                                                          | <a href="https://data.gwsw.nl/totaal/Infiltratieriool" target="_blank">Infiltratieriool</a>                               |
+| Verticale infiltratiebuizen   | <a href="https://www.riool.net/kennisbank/water-en-klimaat/stelsels-en-voorzieningen-in-het-stedelijk-watersysteem/voorzieningen-in-een-stedelijk-watersysteem/beschrijving-van-een-infiltratieput" target="_blank">Infiltratieput</a>                                                              | <a href="https://data.gwsw.nl/totaal/Infiltratieput" target="_blank">Infiltratieput</a>                                   |
+| Verticale infiltratiebuizen   | <a href="https://www.riool.net/kennisbank/water-en-klimaat/stelsels-en-voorzieningen-in-het-stedelijk-watersysteem/voorzieningen-in-een-stedelijk-watersysteem/beschrijving-van-een-infiltratiekolk" target="_blank">Infiltratiekolk</a>                                                            | <a href="https://data.gwsw.nl/totaal/Infiltratiekolk" target="_blank">Infiltratiekolk</a>                                 |
+| Holle ruimte voorzieningen    | <a href="https://www.riool.net/kennisbank/water-en-klimaat/stelsels-en-voorzieningen-in-het-stedelijk-watersysteem/voorzieningen-in-een-stedelijk-watersysteem/beschrijving-van-een-infiltratie-element" target="_blank">Infiltratie-unit* en Infiltratie-element</a>                               | <a href="https://data.gwsw.nl/totaal/Infiltratiekrat" target="_blank">Infiltratiekrat</a>                                 |
+| Holle ruimte voorzieningen    | <a href="https://www.riool.net/kennisbank/water-en-klimaat/stelsels-en-voorzieningen-in-het-stedelijk-watersysteem/voorzieningen-in-een-stedelijk-watersysteem/beschrijving-van-een-infiltratie-element" target="_blank">Infiltratiekoffer* en Infiltratie-element</a>                              | <a href="https://data.gwsw.nl/totaal/Grindkoffer" target="_blank">Grindkoffer, Lavakoffer, Zandkoffer, Steenwolkoffer</a> |
+| Infiltrerende wegconstructies | <a href="https://www.riool.net/kennisbank/water-en-klimaat/stelsels-en-voorzieningen-in-het-stedelijk-watersysteem/voorzieningen-in-een-stedelijk-watersysteem/beschrijving-van-een-infiltrerend-cunet" target="_blank">Waterdoorlatende verharding (poreuze steen)* en Infiltrerend Cunet</a>      |                                                                                                                           |
+| Infiltrerende wegconstructies | <a href="https://www.riool.net/kennisbank/water-en-klimaat/stelsels-en-voorzieningen-in-het-stedelijk-watersysteem/voorzieningen-in-een-stedelijk-watersysteem/beschrijving-van-een-infiltrerend-cunet" target="_blank">Waterdoorlatende verharding (infiltrerende voeg)* en Infiltrerend Cunet</a> |                                                                                                                           |
+| Infiltrerende wegconstructies | <a href="https://www.riool.net/kennisbank/water-en-klimaat/stelsels-en-voorzieningen-in-het-stedelijk-watersysteem/voorzieningen-in-een-stedelijk-watersysteem/beschrijving-van-een-infiltrerend-cunet" target="_blank">Halfverharding* en Infiltrerend Cunet</a>                                   |                                                                                                                           |
+| Infiltrerende wegconstructies | <a href="https://www.riool.net/kennisbank/water-en-klimaat/stelsels-en-voorzieningen-in-het-stedelijk-watersysteem/voorzieningen-in-een-stedelijk-watersysteem/beschrijving-van-een-infiltrerend-cunet" target="_blank">Infiltrerend Cunet</a>                                                      |                                                                                                                           |
 
-De beschijving van de infiltratievoorzieningen focust het spectief van de hydraulische opbouw van een voorziening. Dat houdt in: de voorziening is het geheel der delen, waarbij ieder onderdeel apart wordt beschreven. Hiermee wordt het mogelijk om de hydraulische werking van de gehele voorziening te schematiseren.
+Op basis van bovenstaande tabel is in de volgende tabel voorstel opgenomen voor de voorzieningen in GWSW.
+
+| Type                          | Voorstel GWSW                | Motivatie                                  |
+|-------------------------------|------------------------------|--------------------------------------------|
+| Groene infiltratievelden      | Wadi                         |                                            |
+| Groene infiltratievelden      | Infiltratieveld              |                                            |
+| Groene infiltratievelden      | Infiltratiegreppel           |                                            |
+| Groene infiltratievelden      | Infiltratieberm              |                                            |
+| Horizontale infiltratiebuizen | Infiltratierioolvoorziening  | Infiltratieriool is al bekend in het GWSW  |
+| Verticale infiltratiebuizen   | Infiltratieputvoorziening    | Infiltratieput is al bekend in het GWSW    |
+| Verticale infiltratiebuizen   | Infiltratiekolkvoorziening   | Infiltratiekolk is al bekend in het GWSW   |
+| Holle ruimte voorzieningen    | Infiltratie-unit             |                                            |
+| Holle ruimte voorzieningen    | Infiltratiekoffervoorziening | Diverse koffers zijn al bekend in het GWSW |
+| Infiltrerende wegconstructies | Waterdoorlatende verharding  |                                            |
+| Infiltrerende wegconstructies | Waterpasserende verharding   |                                            |
+| Infiltrerende wegconstructies | Halfverharding               |                                            |
+| Infiltrerende wegconstructies | Infiltratie Cunet            |                                            |
+
+<br>
+
+**Definities infiltratievoorzieningen**
+
+In onderstaande tabel zijn de verschillende definities van infiltratievoorzieningen opgenomen zoals deze nu in de kennisbank en/of GWSW zijn beschreven.
+
+| Voorziening                  | Definitie kennisbank                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Definitie GWSW                                                                                                                                                                                                                                             | Voorstel definitie                                                                                                                                                                                                                                                                                                                                                    |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wadi                         | Een wadi is een begroeide, onverharde verlaging in het maaiveld waarin het hemelwater wordt verzameld, dat vervolgens via een zuiverende bodempassage infiltreert in de ondergrond. Bij overlelasting heeft de verlaging een overloop. In de ondergrond heeft de wadi een drainageleiding en eventueel infiltratie-elementen.                                                                                                                                                                                                                                                                                                                     | Een verdiept terrein, bestemd om het hemelwater tijdelijk te bergen, voorzien van waterdoorlatende bodem waardoor water door middel van infiltratie door de bodem kan worden afgevoerd.                                                                    | Een begroeide, onverharde verlaging in het maaiveld, waarin het hemelwater tijdelijk wordt geborgen en via een waterdoorlatende (zuiverende) bodempassage infiltreert in de ondergrond. Bij overbelasting heeft de verlaging een overloop. In de ondergrond heeft de wadi een drainageleiding en eventueel infiltratiekoffer.                                         |
+| Infiltratieveld              | Een infiltratieveld bestaat altijd uit een verlaging in het maaiveld (het bassin) en een doorlatende toplaag. Er zijn allerlei varianten mogelijk in omvang en inrichting. Het principe is altijd hetzelfde.                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                            | Een begroeide, onverharde verlaging in het maaiveld, waarin het hemelwater tijdelijk wordt geborgen en waarbij het hemelwater via een waterdoorlatende (zuiverende) bodempassage infiltreert in de ondergrond.                                                                                                                                                        |
+| Infiltratiegreppel           | Greppels zijn onverharde geulen, vaak begroeid met gras, die gebruikt worden voor de afvoer van ingezameld hemelwater.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Een natuurlijk open reservoir met waterdoorlatende wanden voor de tijdelijke berging van hemelwater, waarbij het hemelwater door middel van infiltratie door de wanden kan worden afgevoerd.                                                               | Een begroeide, onverharde greppel / sloot, waarin het hemelwater tijdelijk wordt geborgen en via de bodem en wanden infiltreert in de ondergrond.                                                                                                                                                                                                                     |
+| Infiltratieberm              | Een infiltrerende berm is een strook grond langs een weg, tussen rijstroken of tussen een rijweg en een fiets- of voetpad in die het afstromende hemelwater van de verharding ernaast laat infiltreren. Dit kan bedoeld zijn om (schoon) water niet af te voeren, om grondwater aan te vullen en ook om de beplanting in bermen van voldoende water te voorzien.                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                            | Een begroeide, onverharde verlaging in een strook grond langs een weg, fiets- of voetpad, waarin het hemelwater tijdelijk wordt geborgen en via de bodem en wanden infiltreert in de ondergrond.                                                                                                                                                                      |
+| Infiltratierioolvoorziening  | Het doel van een infiltratieriool is het in de bodem brengen en soms bergen van ingezameld hemelwater. Een infiltratieriool is een leiding met een buiswand waar water doorheen kan. De wand is gemaakt van poreus materiaal of er zijn openingen in de buiswand aangebracht. Hierdoor kan het water vanuit de buis via de wand in de bodem infiltreren.                                                                                                                                                                                                                                                                                          | Een rioolleiding met waterdoorlatende wanden bestemd voor de inzameling en transport van hemelwater, waarbij het hemelwater door middel van infiltratie door de wanden kan worden afgevoerd. Kan ook beschouwd worden als een soort infiltratievoorziening | Een horizontaal liggend infiltratieriool, waarin het hemelwater wordt ingezameld, getransporteerd, tijdelijk wordt geborgen en vervolgens via de wanden infiltreert in de bodem.                                                                                                                                                                                     |
+| Infiltratieputvoorziening    | Infiltratieputten zijn verticaal in de grond geplaatste buizen van kunststof of beton die aan de onderzijde meestal open zijn. Vaak zijn de zijkanten voorzien van gaten of sleuven of zijn deze gemaakt van poreus materiaal, waardoor hemelwater in de omliggende bodem kan infiltreren. Infiltratieputten worden ook wel zink- of zakputten genoemd.                                                                                                                                                                                                                                                                                           | Een put met waterdoorlatende wanden bestemd voor de inzameling van hemelwater, waarbij het hemelwater door middel van infiltratie door de wanden kan worden afgevoerd                                                                                      | Een verticaal in de grond aangebrachte infiltratieriool of infiltratieput, waarin het hemelwater tijdelijk wordt geborgen en via de bodem en/of wanden infiltreert in de bodem.                                                                                                                                                                                      |
+| Infiltratiekolkvoorziening   | Infiltratiekolken zijn kolken waarvan de onderbak is voorzien van openingen of van poreuze wanden en een poreuze bodem, waardoor het hemelwater in de ondergrond kan infiltreren.                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Een kolk met waterdoorlatende wanden bestemd voor de inzameling van hemelwater, waarbij het hemelwater door middel van infiltratie door de wanden kan worden afgevoerd. Kan ook beschouwd worden als een soort infiltratievoorziening.                     | Een infiltratiekolk, waarin het hemelwater tijdelijk wordt geborgen en via de bodem en wanden infiltreert in de ondergrond.                                                                                                                                                                                                                                           |
+| Infiltratie-unit             | Infiltratie-elementen zijn ondergrondse voorzieningen die hemelwater bergen en van waaruit ingezameld hemelwater infiltreert in de omliggende bodem. Infiltratie-elementen hebben een holle ruimte in de poriën van een substraat, lavakorrels, steenwolelementen, grind, of tussen (geperforeerde) wanden.                                                                                                                                                                                                                                                                                                                                       | Een krat met waterdoorlatende wanden bestemd voor de inzameling van hemelwater, waarbij het hemelwater door middel van infiltratie door de wanden kan worden afgevoerd.                                                                                    | Een in de ondergrond aangebrachte bak met waterdoorlatende wanden, waarin het hemelwater tijdelijk wordt geborgen en via de bodem en wanden infiltreert in de ondergrond.                                                                                                                                                                                             |
+| Infiltratiekoffervoorziening | Infiltratie-elementen zijn ondergrondse voorzieningen die hemelwater bergen en van waaruit ingezameld hemelwater infiltreert in de omliggende bodem. Infiltratie-elementen hebben een holle ruimte in de poriën van een substraat, lavakorrels, steenwolelementen, grind, of tussen (geperforeerde) wanden.                                                                                                                                                                                                                                                                                                                                       | Een grindkoffer is (meestal) een kuil met worteldoek, gevuld met grind waar regenwater de tijd krijgt om langzaam in de bodem opgenomen te worden**                                                                                                        | Een in de ondergrond aangebrachte koffer met substraat met een hoge porositeit, waarin het hemelwater via een drain wordt verdeeld over de koffer en daarin tijdelijk wordt geborgen en via de bodem en wanden infiltreert in de ondergrond.                                                                                                                          |
+| Waterdoorlatende verharding  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                            | Een verharding met een waterdoorlatende elementenverharding op een constructielaag, met daar direct onder een fundatie/cunet met substraat met een hoge porositeit. Na infiltratie door de verharding kan het hemelwater tijdelijk in het cunet worden geborgen, waarna het via de bodem en wanden van het cunet infiltreert in de ondergrond.                        |
+| Waterpasserende verharding   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                            | Een verharding met een waterpasserende elementenverharding op een constructielaag, met daar direct onder een fundatie/cunet met substraat met een hoge porositeit. Na infiltratie langs de vergrote voegen van de verharding kan het hemelwater tijdelijk in het cunet worden geborgen, waarna het via de bodem en wanden van het cunet infiltreert in de ondergrond. |
+| Halfverharding               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                            | Een halfverharding en eventueel cunet bestaande uit substraat met een hoge porositeit, waarin het hemelwater tijdelijk in het cunet wordt geborgen en via de bodem en wanden van het cunet infiltreert in de ondergrond.                                                                                                                                              |
+| Infiltratiecunet             | Een cunet is de funderingslaag die wordt gebruikt onder verharding (bijvoorbeeld een weg). Een cunet wordt daarom heel vaak toegepast. De grond waarop een weg wordt aangelegd, wordt afgegraven om in plaats hiervan een meer draagkrachtige laag aan te kunnen brengen, het cunet. Het doel hiervan is het vergroten van de draagkracht ten behoeve van wat erboven ligt. Als voor dit wegcunet geschikt materiaal wordt gebruikt, kan het ook een boel water bergen. Er wordt vaak rondom een voorziening voor drainage of infiltratie ook een laag grond vervangen. In dat geval altijd door goed doorlatend materiaal. Ook dit is een cunet. |                                                                                                                                                                                                                                                            | Een traditioneel uitgevoerde verharding op een constructielaag, met daar direct onder een fundatie/cunet met substraat met een hoge porositeit. Het hemelwater wordt via kolken met infiltratieriool en/of permeogoten in het cunet gebracht en geborgen, waarna het via de bodem en wanden van het cunet infiltreert in de ondergrond.                               |
+
+
+De beschijving van de infiltratievoorzieningen focust het perspectief van de hydraulische opbouw van een voorziening. Dat houdt in: de voorziening is het geheel der delen, waarbij ieder onderdeel apart wordt beschreven en zijn eigen hydraulische kenmerken heeft. Hiermee wordt het mogelijk om de hydraulische werking van de gehele voorziening te schematiseren.
 
 
 # Soorten infiltratievoorzieningen
@@ -113,18 +156,10 @@ In de visualisatie staan pijlen met diverse kleuren. In onderstaande legenda is 
 <div class="box">
 <span class="blue">Definitie Wadi</span>
 
-Een verdiept terrein, bestemd om het hemelwater tijdelijk te bergen, voorzien van waterdoorlatende bodem waardoor water door middel van infiltratie door de bodem kan worden afgevoerd.
+Een begroeide, onverharde verlaging in het maaiveld, waarin het hemelwater tijdelijk wordt geborgen en via een waterdoorlatende (zuiverende) bodempassage infiltreert in de ondergrond. Bij overbelasting heeft de verlaging een overloop. In de ondergrond heeft de wadi een drainageleiding en eventueel infiltratiekoffer.
+
 </div>
 
-## Infiltratie-unit
-<br>
-<img src="media/voorzieningen/infiltratieunit.png" style="width:11in"  alt="Infiltratie-unit"/>
-
-<div class="box">
-<span class="blue">Definitie Infiltratie-unit</span>
-
-Een constructie die een ondergrondse open ruimte geeft en waterdoorlatende wanden heeft, waarbij het hemelwater door middel van infiltratie door de wanden kan worden afgevoerd.
-</div>
 
 ## Infiltratieveld
 <br>
@@ -133,38 +168,31 @@ Een constructie die een ondergrondse open ruimte geeft en waterdoorlatende wande
 <div class="box">
 <span class="blue">Definitie Infiltratieveld</span>
 
-Een verdiept terrein, bestemd om het hemelwater tijdelijk te bergen en in de bodem te laten infiltreren. Er is een waterdoorlatende bodem.
+Een begroeide, onverharde verlaging in het maaiveld, waarin het hemelwater tijdelijk wordt geborgen en via een waterdoorlatende (zuiverende) bodempassage infiltreert in de ondergrond.
 </div>
+
 
 ## Infiltratiegreppel
 <br>
 <img src="media/voorzieningen/infiltratiegreppel.png" style="width:11in"  alt="Infiltratiegreppel"/>
 
 <div class="box">
-<span class="blue">Definitie Infiltratirgreppel</span>
+<span class="blue">Definitie Infiltratriegreppel</span>
 
-Een infiltratieveld, in de vorm van een greppel.
+Een begroeide, onverharde greppel / sloot, waarin het hemelwater tijdelijk wordt geborgen en via de bodem en wanden infiltreert in de ondergrond.
 </div>
 
-## Infiltratiekoffervoorziening
+
+## Infiltratieberm
 <br>
-<img src="media/voorzieningen/infiltratiekoffervoorziening.png" style="width:11in"  alt="Infiltratiekoffervoorziening"/>
+<img src="media/voorzieningen/infiltratiegreppel.png" style="width:11in"  alt="Infiltratieberm"/>
 
 <div class="box">
-<span class="blue">Definitie Infiltratiekoffervoorziening</span>
+<span class="blue">Definitie Infiltratieberm</span>
 
-Een infiltratiekoffer is een infiltratievoorziening met een infiltratiekoffer. De infiltratiekoffer is gevuld met een substraat en kan water bufferen. Het substraat kan bestaan uit verschillende materialen, zoals grind, steenwol, lava, zand en puin. Een drain in het aggregaat kan voor de invoer en afvoer van regenwater zorgen.
+Een begroeide, onverharde verlaging in een strook grond langs een weg, fiets- of voetpad, waarin het hemelwater tijdelijk wordt geborgen en via de bodem en wanden infiltreert in de ondergrond.
 </div>
 
-## Infiltratieputvoorziening
-<br>
-<img src="media/voorzieningen/infiltratieputvoorziening.png" style="width:11in"  alt="Infiltratieputvoorziening"/>
-
-<div class="box">
-<span class="blue">Definitie Infiltratieputvoorziening</span>
-
-Een infiltratieputvoorziening is een infiltratievoorziening met een infiltratieput. De put heeft waterdoorlatende wanden bestemd voor de inzameling van hemelwater, waarbij het hemelwater door middel van infiltratie door de wanden kan worden afgevoerd.
-</div>
 
 ## Infiltratierioolvoorziening
 <br>
@@ -173,8 +201,53 @@ Een infiltratieputvoorziening is een infiltratievoorziening met een infiltratiep
 <div class="box">
 <span class="blue">Definitie Infiltratierioolvoorziening</span>
 
-Een infiltratierioolvoorziening is een infiltratievoorziening met een infiltratieriool. Het infiltratieriool heeft waterdoorlatende wanden bestemd voor de inzameling van hemelwater, waarbij het hemelwater door middel van infiltratie door de wanden kan worden afgevoerd.
+Een horizontaal liggend infiltratieriool, waarin het hemelwater wordt ingezameld, getransporteerd, tijdelijk wordt geborgen en vervolgens via de wanden infiltreert in de bodem.
 </div>
+
+
+## Infiltratieputvoorziening
+<br>
+<img src="media/voorzieningen/infiltratieputvoorziening.png" style="width:11in"  alt="Infiltratieputvoorziening"/>
+
+<div class="box">
+<span class="blue">Definitie Infiltratieputvoorziening</span>
+
+Een verticaal in de grond aangebrachte infiltratieriool of infiltratieput, waarin het hemelwater tijdelijk wordt geborgen en via de bodem en/of wanden infiltreert in de bodem.
+</div>
+
+
+## Infiltratiekolkvoorziening
+<br>
+<img src="media/voorzieningen/infiltratierioolvoorziening.png" style="width:11in"  alt="Infiltratiekolkvoorziening"/>
+
+<div class="box">
+<span class="blue">Definitie Infiltratiekolkvoorziening</span>
+
+Een infiltratiekolk, waarin het hemelwater tijdelijk wordt geborgen en via de bodem en wanden infiltreert in de ondergrond.
+</div>
+
+
+## Infiltratie-unit
+<br>
+<img src="media/voorzieningen/infiltratieunit.png" style="width:11in"  alt="Infiltratie-unit"/>
+
+<div class="box">
+<span class="blue">Definitie Infiltratie-unit</span>
+
+Een in de ondergrond aangebrachte bak met waterdoorlatende wanden, waarin het hemelwater tijdelijk wordt geborgen en via de bodem en wanden infiltreert in de ondergrond.
+</div>
+
+
+## Infiltratiekoffervoorziening
+<br>
+<img src="media/voorzieningen/infiltratiekoffervoorziening.png" style="width:11in"  alt="Infiltratiekoffervoorziening"/>
+
+<div class="box">
+<span class="blue">Definitie Infiltratiekoffervoorziening</span>
+
+Een in de ondergrond aangebrachte koffer met substraat met een hoge porositeit, waarin het hemelwater via een drain wordt verdeeld over de koffer en daarin tijdelijk wordt geborgen en via de bodem en wanden infiltreert in de ondergrond.
+</div>
+
 
 ## Waterdoorlatende verharding
 <br>
@@ -183,8 +256,9 @@ Een infiltratierioolvoorziening is een infiltratievoorziening met een infiltrati
 <div class="box">
 <span class="blue">Definitie Waterdoorlatende verharding</span>
 
-Een waterdoorlatende verharding bestaat uit poreus bestratingsmateriaal dat regenwater doorlaat. Hieronder ligt een wegfundering die het infiltrerende hemelwater kan bergen en infiltreren.
+Een verharding met een waterdoorlatende elementenverharding op een constructielaag, met daar direct onder een fundatie/cunet met substraat met een hoge porositeit. Na infiltratie door de verharding kan het hemelwater tijdelijk in het cunet worden geborgen, waarna het via de bodem en wanden van het cunet infiltreert in de ondergrond.
 </div>
+
 
 ## Waterpasserende verharding
 <br>
@@ -193,18 +267,9 @@ Een waterdoorlatende verharding bestaat uit poreus bestratingsmateriaal dat rege
 <div class="box">
 <span class="blue">Definitie Waterpasserende verharding</span>
 
-Een waterdoorpasserende verharding bestaat uit bestratingsmateriaal waarbij de bestratingsvoegen het regenwater doorlaat. Hieronder ligt een wegfundering die het infiltrerende hemelwater kan bergen en infiltreren.
+Een verharding met een waterpasserende elementenverharding op een constructielaag, met daar direct onder een fundatie/cunet met substraat met een hoge porositeit. Na infiltratie langs de vergrote voegen van de verharding kan het hemelwater tijdelijk in het cunet worden geborgen, waarna het via de bodem en wanden van het cunet infiltreert in de ondergrond.
 </div>
 
-## Waterbergende en infiltrerende fundatie
-<br>
-<img src="media/voorzieningen/waterbergendefundatie.png" style="width:11in"  alt="Waterbergende en infiltrerende fundatie"/>
-
-<div class="box">
-<span class="blue">Definitie Waterbergende en infiltrerende fundatie</span>
-
-Een waterdoorlatende verharding bestaat uit poreus bestratingsmateriaal dat regenwater doorlaat. Hieronder ligt een wegfundering die het infiltrerende hemelwater kan bergen en infiltreren.
-</div>
 
 ## Halfverharding
 <br>
@@ -213,7 +278,18 @@ Een waterdoorlatende verharding bestaat uit poreus bestratingsmateriaal dat rege
 <div class="box">
 <span class="blue">Definitie Halfverharding</span>
 
-Halfverharding bestaat uit doorlatend materiaal aan het maaiveld. Hieronder ligt een wegfundering die het infiltrerende hemelwater kan bergen en infiltreren.
+Een halfverharding en eventueel cunet bestaande uit substraat met een hoge porositeit, waarin het hemelwater tijdelijk in het cunet wordt geborgen en via de bodem en wanden van het cunet infiltreert in de ondergrond.
+</div>
+
+
+## Infiltratiecunet
+<br>
+<img src="media/voorzieningen/waterbergendefundatie.png" style="width:11in"  alt="Infiltratiecunet"/>
+
+<div class="box">
+<span class="blue">Definitie Infiltratiecunet</span>
+
+Een traditioneel uitgevoerde verharding op een constructielaag, met daar direct onder een fundatie/cunet met substraat met een hoge porositeit. Het hemelwater wordt via kolken met infiltratieriool en/of permeogoten in het cunet gebracht en geborgen, waarna het via de bodem en wanden van het cunet infiltreert in de ondergrond.
 </div>
 
 
