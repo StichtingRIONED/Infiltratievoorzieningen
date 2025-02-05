@@ -298,14 +298,21 @@ In deze paragrafen worden de wijzigingen voor het GWSW gepresenteerd.
 
 Onderstaand schema biedt een overzicht van de wijzigingen in de soortenboom voor infiltratievoorzieningen.
 
-| Huidige soortenboom                                                                                                                                                                                                                                                                                          | Voorstel soortenboom                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| - Reservoir<br>   - Bergbezinkbassin<br>   - Bergingsbassin<br>   - Bergingsvijver<br>   - Bezinkbassin<br>   - Infiltratiereservoir<br>      - Grindkoffer<br>      - Infiltratiebassin<br>      - Infiltratiegreppel<br>      - Lavakoffer<br>      - Steenwolkoffer<br>      - Wadi<br>      - Zandkoffer | - Reservoir<br>   - Bergbezinkbassin<br>   - Bergingsbassin<br>   - Bergingsvijver<br>   - Bezinkbassin<br>   - Infiltratiereservoir > <span style="color:green">Infiltratievoorziening</span><br>       - ~~Grindkoffer~~<br>      - ~~Infiltratiebassin~~<br>      - ~~Lavakoffer~~<br>      - ~~Steenwolkoffer~~<br>      - Wadi<br>      - ~~Zandkoffer~~ <br>      - Infiltratieveld<br>         - Infiltratiegreppel<br>      - Infiltratierioolvoorziening<br>      - Infiltratieputvoorziening<br>      - Infiltratie-unit<br>      - Infiltratiekoffervoorziening |
-
+<table>
+ <tr>
+    <td><b>Huidige soortenboom</b></td>
+    <td><b>Voorstel soortenboom</b></td>
+ </tr>
+ <tr>
+    <td> <img src="media/huidigesoortenboom.png" title="huidige soortenboom"/> </td>
+    <td> <img src="media/voorstelsoortenboom.png" title="huidige soortenboom"/> </td>
+ </tr>
+</table>
 
 
 
 ## Concepten, kenmerken en relaties
+
 
 | Concept | Definitie |
 |---------|-----------|
