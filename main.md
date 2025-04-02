@@ -147,9 +147,9 @@ In onderstaande paragrafen zijn diverse infiltratievoorzieningen gevisualiseerd.
 
 In de visualisatie staan pijlen met diverse kleuren. In onderstaande legenda is de betekenis weergegeven.
 
-![logo](./media/GWSW%20Logo.png "logo")
+![logo](./media/GWSW%20Logo.png =250x "logo")
 
-![legenda](./media/voorzieningen/legenda.png "legenda")
+![legenda](./media/voorzieningen/legenda.png "legenda" =250x)
 
 <img src="./media/voorzieningen/legenda.png" width="2.5" alt="Legenda"/>
 
