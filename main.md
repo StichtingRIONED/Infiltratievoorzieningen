@@ -11,6 +11,8 @@ Vragen over deze website en het GWSW kunt u stellen via gwsw@rioned.org.
 
 # Inleiding
 
+![logo](media/GWSW Logo.png "logo")
+
 ## Aanleiding
 
 Vanuit het programma hemelwatervoorzieningen van RIONED bestaat de behoefte aan goede beschrijvingen van (beheer van) infiltratievoorzieningen wat gebruikt kan worden om GWSW-definities op te stellen. De wens bestaat hierbij om:
