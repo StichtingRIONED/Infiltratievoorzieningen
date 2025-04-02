@@ -1,0 +1,8 @@
+[project]
+name = "beheer-infiltratievoorzieningen"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "pypandoc>=1.15",
+]
