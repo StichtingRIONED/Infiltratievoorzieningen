@@ -31,6 +31,9 @@ def markdown_to_docx(src_file: Path, dest_file: Path, args: List[str]):
 arguments = [
     # path to metadata file
     '--metadata-file', DOCX_METADATA_FILE,
+
+    '-t markdown_mmd'
+    
     # path to word template
     '--reference-doc', DOCX_TEMPLATE_FILE,
     # markdown extension
