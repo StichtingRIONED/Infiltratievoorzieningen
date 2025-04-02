@@ -275,7 +275,7 @@ Een verharding met een waterpasserende elementenverharding op een constructielaa
 <br>
 <img src="media/voorzieningen/halfverharding.png" style="width:11in"  alt="Halfverharding"/>
 
-![media/voorzieningen/halfverharding.png]
+![[media/voorzieningen/halfverharding.png]]
 
 <div class="box">
 <span class="blue">Definitie Halfverharding</span>
