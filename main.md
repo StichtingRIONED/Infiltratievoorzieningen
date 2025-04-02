@@ -11,7 +11,7 @@ Vragen over deze website en het GWSW kunt u stellen via gwsw@rioned.org.
 
 # Inleiding
 
-![logo](media/GWSW Logo.png "logo")
+![logo](./media/GWSW%20Logo.png "logo")
 
 ## Aanleiding
 
