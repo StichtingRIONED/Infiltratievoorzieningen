@@ -11,8 +11,6 @@ Vragen over deze website en het GWSW kunt u stellen via gwsw@rioned.org.
 
 # Inleiding
 
-![logo](./media/GWSW%20Logo.png "logo")
-
 ## Aanleiding
 
 Vanuit het programma hemelwatervoorzieningen van RIONED bestaat de behoefte aan goede beschrijvingen van (beheer van) infiltratievoorzieningen wat gebruikt kan worden om GWSW-definities op te stellen. De wens bestaat hierbij om:
@@ -149,7 +147,8 @@ In onderstaande paragrafen zijn diverse infiltratievoorzieningen gevisualiseerd.
 
 In de visualisatie staan pijlen met diverse kleuren. In onderstaande legenda is de betekenis weergegeven.
 
-<img src="media/voorzieningen/legenda.png" style="width:2.5in"  alt="Legenda"/>
+![logo](./media/GWSW%20Logo.png "logo")
+<img src="./media/voorzieningen/legenda.png" style="width:2.5in"  alt="Legenda"/>
 
 ## Wadi
 <br>
