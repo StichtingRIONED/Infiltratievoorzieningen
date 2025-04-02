@@ -32,7 +32,7 @@ arguments = [
     # path to metadata file
     '--metadata-file', DOCX_METADATA_FILE,
 
-    '-t markdown_mmd'
+    '-t markdown_md'
     
     # path to word template
     '--reference-doc', DOCX_TEMPLATE_FILE,
