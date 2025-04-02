@@ -148,6 +148,7 @@ In onderstaande paragrafen zijn diverse infiltratievoorzieningen gevisualiseerd.
 In de visualisatie staan pijlen met diverse kleuren. In onderstaande legenda is de betekenis weergegeven.
 
 ![logo](./media/GWSW%20Logo.png "logo")
+
 <img src="./media/voorzieningen/legenda.png" style="width:2.5in"  alt="Legenda"/>
 
 ## Wadi
