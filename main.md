@@ -147,17 +147,12 @@ In onderstaande paragrafen zijn diverse infiltratievoorzieningen gevisualiseerd.
 
 In de visualisatie staan pijlen met diverse kleuren. In onderstaande legenda is de betekenis weergegeven.
 
-![logo](./media/GWSW%20Logo.png =250x "logo")
-
-![legenda](./media/voorzieningen/legenda.png "legenda" =250x)
-
-<img src="./media/voorzieningen/legenda.png" width="2.5" alt="Legenda"/>
-
-<img src="./media/voorzieningen/legenda.png" style="width:2.5in" alt="Legenda"/>
+![legenda](./media/voorzieningen/legenda.png)
 
 ## Wadi
 <br>
-<img src="media/voorzieningen/wadi.png" style="width:11in"  alt="Wadi"/>
+
+![wadi](./media/voorzieningen/wadi.png)
 
 <div class="box">
 <span class="blue">Definitie Wadi</span>
@@ -169,7 +164,8 @@ Een begroeide, onverharde verlaging in het maaiveld, waarin het hemelwater tijde
 
 ## Infiltratieveld
 <br>
-<img src="media/voorzieningen/infiltratieveld.png" style="width:11in"  alt="Infiltratieveld"/>
+
+![infiltratieveld](./media/voorzieningen/infiltratieveld.png)
 
 <div class="box">
 <span class="blue">Definitie Infiltratieveld</span>
@@ -180,7 +176,8 @@ Een begroeide, onverharde verlaging in het maaiveld, waarin het hemelwater tijde
 
 ## Infiltratiegreppel
 <br>
-<img src="media/voorzieningen/infiltratiegreppel.png" style="width:11in"  alt="Infiltratiegreppel"/>
+
+![infiltratiegreppel](./media/voorzieningen/infiltratiegreppel.png)
 
 <div class="box">
 <span class="blue">Definitie Infiltratriegreppel</span>
@@ -191,7 +188,8 @@ Een begroeide, onverharde greppel / sloot, waarin het hemelwater tijdelijk wordt
 
 ## Infiltratieberm
 <br>
-<img src="media/voorzieningen/infiltratieberm.png" style="width:11in"  alt="Infiltratieberm"/>
+
+![infiltratieberm](./media/voorzieningen/infiltratieberm.png)
 
 <div class="box">
 <span class="blue">Definitie Infiltratieberm</span>
@@ -202,7 +200,8 @@ Een begroeide, onverharde verlaging in een strook grond langs een weg, fiets- of
 
 ## Infiltratierioolvoorziening
 <br>
-<img src="media/voorzieningen/infiltratierioolvoorziening.png" style="width:11in"  alt="Infiltratierioolvoorziening"/>
+
+![infiltratierioolvoorziening](./media/voorzieningen/infiltratierioolvoorziening.png)
 
 <div class="box">
 <span class="blue">Definitie Infiltratierioolvoorziening</span>
@@ -213,7 +212,8 @@ Een horizontaal liggend infiltratieriool, waarin het hemelwater wordt ingezameld
 
 ## Infiltratieputvoorziening
 <br>
-<img src="media/voorzieningen/infiltratieputvoorziening.png" style="width:11in"  alt="Infiltratieputvoorziening"/>
+
+![infiltratieputvoorziening](./media/voorzieningen/infiltratieputvoorziening.png)
 
 <div class="box">
 <span class="blue">Definitie Infiltratieputvoorziening</span>
@@ -224,7 +224,8 @@ Een verticaal in de grond aangebrachte infiltratieriool of infiltratieput, waari
 
 ## Infiltratiekolkvoorziening
 <br>
-<img src="media/voorzieningen/infiltratiekolkvoorziening.png" style="width:11in"  alt="Infiltratiekolkvoorziening"/>
+
+![infiltratiekolkvoorziening](./media/voorzieningen/infiltratiekolkvoorziening.png)
 
 <div class="box">
 <span class="blue">Definitie Infiltratiekolkvoorziening</span>
@@ -235,7 +236,8 @@ Een infiltratiekolk, waarin het hemelwater tijdelijk wordt geborgen en via de bo
 
 ## Infiltratie-unit
 <br>
-<img src="media/voorzieningen/infiltratieunit.png" style="width:11in"  alt="Infiltratie-unit"/>
+
+![infiltratieunit](./media/voorzieningen/infiltratieunit.png)
 
 <div class="box">
 <span class="blue">Definitie Infiltratie-unit</span>
@@ -246,7 +248,8 @@ Een in de ondergrond aangebrachte bak met waterdoorlatende wanden, waarin het he
 
 ## Infiltratiekoffervoorziening
 <br>
-<img src="media/voorzieningen/infiltratiekoffervoorziening.png" style="width:11in"  alt="Infiltratiekoffervoorziening"/>
+
+![infiltratiekoffervoorziening](./media/voorzieningen/infiltratiekoffervoorziening.png)
 
 <div class="box">
 <span class="blue">Definitie Infiltratiekoffervoorziening</span>
@@ -257,7 +260,8 @@ Een in de ondergrond aangebrachte koffer met substraat met een hoge porositeit, 
 
 ## Waterdoorlatende verharding
 <br>
-<img src="media/voorzieningen/waterdoorlatendeverharding.png" style="width:11in"  alt="Waterdoorlatende verharding"/>
+
+![waterdoorlatendeverharding](./media/voorzieningen/waterdoorlatendeverharding.png)
 
 <div class="box">
 <span class="blue">Definitie Waterdoorlatende verharding</span>
@@ -268,7 +272,8 @@ Een verharding met een waterdoorlatende elementenverharding op een constructiela
 
 ## Waterpasserende verharding
 <br>
-<img src="media/voorzieningen/waterpasserendeverharding.png" style="width:11in"  alt="Waterpasserende verharding"/>
+
+![waterpasserendeverharding](./media/voorzieningen/waterpasserendeverharding.png)
 
 <div class="box">
 <span class="blue">Definitie Waterpasserende verharding</span>
@@ -279,9 +284,8 @@ Een verharding met een waterpasserende elementenverharding op een constructielaa
 
 ## Halfverharding
 <br>
-<img src="media/voorzieningen/halfverharding.png" style="width:11in"  alt="Halfverharding"/>
 
-![[media/voorzieningen/halfverharding.png]]
+![halfverharding](./media/voorzieningen/halfverharding.png)
 
 <div class="box">
 <span class="blue">Definitie Halfverharding</span>
@@ -292,7 +296,8 @@ Een halfverharding en eventueel cunet bestaande uit substraat met een hoge poros
 
 ## Infiltratiecunet
 <br>
-<img src="media/voorzieningen/infiltratiecunet.png" style="width:11in"  alt="Infiltratiecunet"/>
+
+![infiltratiecunet](./media/voorzieningen/infiltratiecunet.png)
 
 <div class="box">
 <span class="blue">Definitie Infiltratiecunet</span>
@@ -306,22 +311,7 @@ In deze paragrafen worden de wijzigingen voor het GWSW gepresenteerd.
 
 Onderstaand schema biedt een overzicht van de wijzigingen in de soortenboom voor infiltratievoorzieningen.
 
-<table>
- <tr>
-    <td><b>Huidige soortenboom</b></td>
-    <td><b>Voorstel soortenboom</b></td>
- </tr>
- <tr>
-    <td> <img src="media/huidigesoortenboom.png" title="huidige soortenboom"/> </td>
-    <td> <img src="media/voorstelsoortenboom.png" title="huidige soortenboom"/> </td>
- </tr>
-</table>
-
-
 
 ## Concepten, kenmerken en relaties
-
-
-zxzx
 
 
