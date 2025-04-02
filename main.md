@@ -149,6 +149,8 @@ In de visualisatie staan pijlen met diverse kleuren. In onderstaande legenda is 
 
 ![logo](./media/GWSW%20Logo.png "logo")
 
+![legenda](./media/voorzieningen/legenda.png "legenda")
+
 <img src="./media/voorzieningen/legenda.png" width="2.5" alt="Legenda"/>
 
 <img src="./media/voorzieningen/legenda.png" style="width:2.5in" alt="Legenda"/>
