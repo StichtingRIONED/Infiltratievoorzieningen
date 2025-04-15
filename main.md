@@ -306,12 +306,55 @@ Een traditioneel uitgevoerde verharding op een constructielaag, met daar direct 
 </div>
 
 
-# Wijzigingen in het GWSW
-In deze paragrafen worden de wijzigingen voor het GWSW gepresenteerd.
+# Voorgestelde wijzigingen in het GWSW
 
-Onderstaand schema biedt een overzicht van de wijzigingen in de soortenboom voor infiltratievoorzieningen.
+De voorgestelde wijzigingen betreffen:
+- introductie van nieuwe fysieke objecten
+    - introductie van een groepering van objecten op het niveau van een gehele infiltratievoorziening
+    - introductie van objecten die onderdeel kunnen zijn van een infiltratievoorziening
+- verwijdering van enkele huidige concepten (huidige opties blijven behouden, maar worden anders opgelost)
+- introductie van nieuwe kenmerken van de aan te maken fysieke objecten
+- wijziging van naamgeving van enkele huidige concepten
+- wijziging van enkele onderlinge relaties van huidige concepten
 
+De wijzigingen worden in deze paragraaf verder uitgewerkt.
 
-## Concepten, kenmerken en relaties
+## Wijzigingen fysieke objecten
+De huidige concepten in de soortenboom voldoen niet volledig aan de wensen van de werkgroep.
 
++ Reservoir
+  + Bergbezinkbassin
+  + Bergingsbassin
+  + Bergingsvijver
+  + Bezinkbassin
+  + Infiltratiereservoir
+    + Grindkoffer
+    + Infiltratiebassin
+    + Infiltratiegreppel
+    + Lavakoffer
+    + Steenwolkoffer
+    + Wadi
+    + Zandkoffer
+
+Het concept 'Infiltratiereservoir' wordt gewijzigd naar 'Infiltratievoorziening'. De term Infiltratievoorziening sluit beter aan op het gebruikte jargon.
+
+Momenteel is het concept Infiltratievoorziening een collectie. Deze collectie komt te vervallen.
+
+Infiltratievoorzieningen zijn vervolgens nader in te delen in twee soorten: groene infiltratievoorzieningen (beplante voorzieningen zoals een wadi) en infiltrerende wegconstructies. 
+
+In de praktijk blijkt het onderscheid tussen 'Wadi', 'Infiltratiebassin' en 'Infiltratieveld' niet te maken. Het gaat immers altijd over een beplante laagte in het maaiveld waar water wordt geborgen waarna het infiltreert in de bodem. Er kunnen diverse ondergrondse objecten onderdeel zijn van de betreffende voorziening. 
+
+De indeling wordt daarmee als volgt:
++ Reservoir
+  + Infiltratievoorziening
+    + Groene infiltratievoorziening
+      + Wadi / Infiltratieveld / Infiltratiebassin
+      + Infiltratiegreppel / Infiltratieberm
+    + Infiltrerende wegconstructie
+
+De concepten Grindkoffer, Lavakoffer, Steenwolkoffer, Zandkoffer komen te vervallen als zelfstandige concepten. De functionaliteit van deze concepten wordt anders opgelost. Zie hiervoor ...
+
+## Kenmerken infiltratievoorziening
+
+De kenmerken van een groene infiltratievoorzieningen zijn de volgende. De wijzigingen t.o.v. de huidige indeling zijn hierbij aangegeven.
 
