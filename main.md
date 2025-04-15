@@ -354,7 +354,47 @@ De indeling wordt daarmee als volgt:
 
 De concepten Grindkoffer, Lavakoffer, Steenwolkoffer, Zandkoffer komen te vervallen als zelfstandige concepten. De functionaliteit van deze concepten wordt anders opgelost. Zie hiervoor ...
 
-## Kenmerken infiltratievoorziening
+## Kenmerken van een infiltratievoorziening
 
-De kenmerken van een groene infiltratievoorzieningen zijn de volgende. De wijzigingen t.o.v. de huidige indeling zijn hierbij aangegeven.
+De kenmerken van een groene infiltratievoorzieningen zijn in onderstaande tabel weergegeven. De kenmerken van het huidige concept Wadi zijn als uitgangspunt genomen.
 
+| Concept               | Kenmerk                 | Datatype                       | Definitie (indien nieuw)                                                                                               | Reeds in GWSW? | Opmerking                                                                                                                                               |
+| --------------------- | ----------------------- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Groen infiltratieveld | Begindatum              | Datum                          |                                                                                                                        | Ja             |                                                                                                                                                         |
+| Groen infiltratieveld | Belastingklasse         | BelastingklasseDIN19580_EN1433 |                                                                                                                        |                |                                                                                                                                                         |
+| Groen infiltratieveld | Bergend oppervlak       | Decimaal                       |                                                                                                                        | Ja             |                                                                                                                                                         |
+| Groen infiltratieveld | Bergend vermogen        | Decimaal                       |                                                                                                                        | Ja             |                                                                                                                                                         |
+| Groen infiltratieveld | Breedte bouwwerk        | Integer                        |                                                                                                                        | Ja             |                                                                                                                                                         |
+| Groen infiltratieveld | Einddatum               | Datum                          |                                                                                                                        | Ja             |                                                                                                                                                         |
+| Groen infiltratieveld | Hoogte bouwwerk         | Integer                        |                                                                                                                        | Ja             |                                                                                                                                                         |
+| Groen infiltratieveld | Infiltrerend oppervlak  | Decimaal                       |                                                                                                                        | Ja             |                                                                                                                                                         |
+| Groen infiltratieveld | Lengte bouwwerk         | Integer                        |                                                                                                                        | Ja             |                                                                                                                                                         |
+| Groen infiltratieveld | Materiaal bouwwerk      | Materiaal bouwwerk             |                                                                                                                        | Ja             | Voor een infiltratievoorziening is Materiaal bouwwerk geen logisch kenmerk om in te vullen. Het betreft immers diverse objecten met diverse materialen. |
+| Groen infiltratieveld | Revisietekening         | Tekst                          |                                                                                                                        | Ja             |                                                                                                                                                         |
+| Groen infiltratieveld | Status functioneren     | Status functioneren            |                                                                                                                        | Ja             |                                                                                                                                                         |
+| Groen infiltratieveld | Theoretische levensduur | Datum                          |                                                                                                                        | Ja             |                                                                                                                                                         |
+| Groen infiltratieveld | Vorm bouwwerk           | Vorm bouwwerk                  |                                                                                                                        | Ja             | Voor een infiltratievoorziening is Vorm bouwwerk geen logisch kenmerk om in te vullen. Het betreft immers een verzameling van diverse objecten.         |
+| Groen infiltratieveld | Retentiewaarde          | Integer                        |                                                                                                                        | Ja             |                                                                                                                                                         |
+| Groen infiltratieveld | Taludhelling            | Tekst                          | De verhouding van de hoogte ten opzichte van de breedte van een talud, uitgedrukt in 'hoogte : lengte' (meestal 1 : x) | Nee            |                                                                                                                                                         |
+| Groen infiltratieveld | Bodemkwaliteit          |                                |                                                                                                                        | Nee            |                                                                                                                                                         |
+
+Voor de kenmerken Bergend oppervlak, Bergend vermogen en Retentiewaarde geldt dat deze veranderen in de tijd. Om deze reden is het belangrijk deze kenmerken te voorzien van een inwinningsdatum en -wijze.
+
+## Onderdelen van een infiltratievoorziening
+
+Een Infiltratievoorziening kan diverse onderdelen bevatten. Deze zijn:
+- Compartiment
+- Kolk
+- Slokop
+- Infiltratieput
+- Inspectieput
+- DIT-riool
+- DT-riool
+- Drain
+- Hemelwaterriool
+- Infiltratiekoffer (nieuw concept)
+- Infiltratiekrat
+- Meetinstrument
+- Grondverbetering
+- Ondergrond
+- Begroeiing (IMBOR-concept)
