@@ -1,0 +1,15 @@
+﻿Concept;Kenmerk;Datatype;Definitie (indien nieuw);Reeds in GWSW?;Opmerking
+Infiltratiekoffer;Begindatum;Datum;;Ja;
+Infiltratiekoffer;Belastingklasse;BelastingklasseDIN19580_EN1433;;Ja;
+Infiltratiekoffer;Bergend oppervlak;Decimaal;;Ja;
+Infiltratiekoffer;Bergend vermogen;Decimaal;;Ja;
+Infiltratiekoffer;Constructie-onderdeeloriëntatie;;;Ja;
+Infiltratiekoffer;Breedte;Integer;;Ja;
+Infiltratiekoffer;Einddatum;Datum;;Ja;
+Infiltratiekoffer;Hoogte;Integer;;Ja;
+Infiltratiekoffer;Infiltrerend oppervlak;Decimaal;;Ja;
+Infiltratiekoffer;Lengte;Integer;;Ja;
+Infiltratiekoffer;Revisietekening;Tekst;;Ja;
+Infiltratiekoffer;Status functioneren;StatusFunctioneren;;Ja;
+Infiltratiekoffer;Theoretische levensduur;Datum;;Ja;
+Infiltratiekoffer;Uitstroomniveau;Decimaal;;Ja;
