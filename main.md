@@ -459,3 +459,4 @@ Infiltratievoorzieningen zijn objecten op de grenzen van het werkveld van de ste
 | Halfverharding              | Verharding                           | Een halfverharding bestaande uit substraat met een hoge porositeit, waarin het hemelwater tijdelijk wordt geborgen en waarbij het hemelwater via de bodem en wanden van het de halfverharding infiltreert in de ondergrond. Ook kan het hemelwater worden afgevoerd naar een onderliggende constructielaag, infiltratiekoffer of infiltratie-unit. |
 | Infiltratiekoffer           | Constructielaag                      | Een in de ondergrond aangebrachte constructielaag met substraat met een hoge porositeit, waarin het hemelwater wordt verdeeld over de constructielaag en daarin tijdelijk wordt geborgen, waarbij het hemelwater via de bodem en wanden infiltreert in de ondergrond of onderliggende infiltratiekoffer of infiltratie-unit.                       |
 
+ 
