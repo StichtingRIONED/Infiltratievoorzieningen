@@ -18,7 +18,7 @@ def markdown_to_docx(src_file: Path, dest_file: Path, args: List[str]):
         pypandoc.convert_file(
             source_file=src_file,
             to='docx',
-            format='md',
+            format='markdown+raw_html',
             outputfile=dest_file,
             extra_args=args)
 
@@ -52,5 +52,10 @@ arguments = [
     # eenzijdig afdrukken
     '-V', 'classoption=oneside',
     #  taal in van het gegenereerde document
-    '-V', 'lang=nl-NL'
+    '-V', 'lang=nl-NL',
+    # opnemen hyperlinks, mits
+    '--inline-links',
+    '--reference-links',
+    '--wrap=preserve',
+    # '--from=markdown+raw_html'
 ]
