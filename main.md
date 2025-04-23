@@ -131,60 +131,49 @@ Om meer inzicht te krijgen in de fysieke verschillen tussen de infiltratievoorzi
 
 In onderstaande paragrafen zijn diverse infiltratievoorzieningen uit de kennisbank gevisualiseerd. Alle termen die in de visualisaties voorkomen, komen uit het GWSW. Op sommige plaatsen komen termen uit het <a href="https://imbor-viewer.apps.crow.nl" target="_blank">IMBOR</a> voor. Dit is dan ook expliciet aangegeven.
 
-In de visualisatie staan pijlen met diverse kleuren. In onderstaande legenda is de betekenis weergegeven.
+In de visualisatie staan pijlen met diverse kleuren.
 
 
 ### Wadi
-<br>
 
+![wadi](./media/voorzieningen/wadi.png)
 
 ### Infiltratieveld
-<br>
-
+![infiltratieveld](./media/voorzieningen/infiltratieveld.png)
 
 ### Infiltratiegreppel
-<br>
-
+![infiltratiegreppel](./media/voorzieningen/infiltratiegreppel.png)
 
 ### Infiltratieberm
-<br>
 
+![infiltratieberm](./media/voorzieningen/infiltratieberm.png)
 
 ### Infiltratierioolvoorziening
-<br>
-
+![infiltratierioolvoorziening](./media/voorzieningen/infiltratierioolvoorziening.png)
 
 ### Infiltratieputvoorziening
-<br>
-
+![infiltratieputvoorziening](./media/voorzieningen/infiltratieputvoorziening.png)
 
 ### Infiltratiekolkvoorziening
-<br>
-
+![infiltratiekolkvoorziening](./media/voorzieningen/infiltratiekolkvoorziening.png)
 
 ### Infiltratie-unit
-<br>
-
+![infiltratie-unit](./media/voorzieningen/infiltratie-unit.png)
 
 ### Infiltratiekoffervoorziening
-<br>
-
+![infiltratiekoffervoorziening](./media/voorzieningen/infiltratiekoffervoorziening.png)
 
 ### Waterdoorlatende verharding
-<br>
-
+![waterdoorlatendeverharding](./media/voorzieningen/waterdoorlatendeverharding.png)
 
 ### Waterpasserende verharding
-<br>
-
+![waterpasserendeverharding](./media/voorzieningen/waterpasserendeverharding.png)
 
 ### Halfverharding
-<br>
-
+![halfverharding](./media/voorzieningen/halfverharding.png)
 
 ### Infiltratiecunet
-<br>
-
+![infiltratiecunet](./media/voorzieningen/infiltratiecunet.png)
 
 # Gewenste situatie
 
