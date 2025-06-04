@@ -5,7 +5,7 @@
   .symbol{width:30px;height:30px;margin-right:1em;vertical-align:middle}
 </style>
 
-Stichting RIONED is initiatiefnemer en eigenaar van dit GitHub-project, Eric Oosterom is de verantwoordelijk projectmanager.
+Stichting RIONED is initiatiefnemer en eigenaar van dit GitHub-project, Eric Oosterom en Marleen Arntz zijn de verantwoordelijk projectmanagers.
 
 Vragen over deze website en het GWSW kunt u stellen via gwsw@rioned.org.
 
@@ -43,8 +43,10 @@ Ten aanzien van de onderdelen zal nagegaan worden of hierin meer uniformering en
 ### Infiltratievoorzieningen en grondwatervoorzieningen in beheerapplicaties
 Samen met de begeleidingscommissie worden wensen voor registratie van infiltratievoorzieningen geïnventariseerd:
 - Wat is nodig voor goede registratie van de object- en systeemgegevens?
-- Wat is daarvoor nodig in het GWSW? (Er zijn ‘basis’- gegevens nodig over ligging en inhoud, maar ook meetgegevens om het onderhoud goed uit te voeren. Wat is er exact nodig?)
-- Wat is haalbaar om op te nemen in GWSW 1.7 (deadline maart 2025) of wat in een volgende GWSW-versie zal komen?
+- Wat is nodig voor goede registratie van de onderhouds- en beheergegevens (conditie, metingen)?
+- Wat is nodig voor analyse van (hydraulisch) functioneren?
+
+Op basis van de gegevensbehoefte zal samen met het GWSW modelleerteam van Stichting RIONED worden bepaald hoe dit in het GWSW-datamodel opgenomen kan worden en welke zaken bij voorkeur juist in het IMBOR (van CROW) terecht moet komen. IMBOR 2025 wordt in juni 2025 gepubliceerd, dus we zullen ons richten op de wijzigingsverzoeken voor de daaropvolgende versie. Geprobeerd wordt om zoveel mogelijk op te nemen in GWSW 1.7 (deadline augustus 2025) en anders in de eerstvolgende GWSW-versie.
 
 Vanuit deze inventarisatie wordt een voorstel gemaakt voor een exacte definitie, functie(s) en onderdelen van infiltratievoorzieningen. Deze worden zo opgesteld dat ze passen binnen GWSW en IMBOR en ook duidelijk is wat de aanpassing is t.o.v. de kennisbank en GWSW.
 
