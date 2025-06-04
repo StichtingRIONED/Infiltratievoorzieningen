@@ -318,22 +318,22 @@ Een Infiltratiekoffer is een nieuw onderdeel van de GWSW. De kenmerken zijn echt
 
 Een Infiltratiekoffer heeft de volgende kenmerken:
 
-| Concept           | Kenmerk                         | Datatype                       | Definitie (indien nieuw) | Reeds in GWSW? | Opmerking |
-|-------------------|---------------------------------|--------------------------------|--------------------------|----------------|-----------|
-| Infiltratiekoffer | Begindatum                      | Datum                          |                          | Ja             |           |
-| Infiltratiekoffer | Belastingklasse                 | BelastingklasseDIN19580_EN1433 |                          | Ja             |           |
-| Infiltratiekoffer | Bergend oppervlak               | Decimaal                       |                          | Ja             |           |
-| Infiltratiekoffer | Bergend vermogen                | Decimaal                       |                          | Ja             |           |
-| Infiltratiekoffer | Constructie-onderdeeloriëntatie |                                |                          | Ja             |           |
-| Infiltratiekoffer | Breedte                         | Integer                        |                          | Ja             |           |
-| Infiltratiekoffer | Einddatum                       | Datum                          |                          | Ja             |           |
-| Infiltratiekoffer | Hoogte                          | Integer                        |                          | Ja             |           |
-| Infiltratiekoffer | Infiltrerend oppervlak          | Decimaal                       |                          | Ja             |           |
-| Infiltratiekoffer | Lengte                          | Integer                        |                          | Ja             |           |
-| Infiltratiekoffer | Revisietekening                 | Tekst                          |                          | Ja             |           |
-| Infiltratiekoffer | Status functioneren             | StatusFunctioneren             |                          | Ja             |           |
-| Infiltratiekoffer | Theoretische levensduur         | Datum                          |                          | Ja             |           |
-| Infiltratiekoffer | Uitstroomniveau                 | Decimaal                       |                          | Ja             |           |
+| Kenmerk                         | Datatype                       | Definitie (indien nieuw) | Reeds in GWSW? | Opmerking |
+|---------------------------------|--------------------------------|--------------------------|----------------|-----------|
+| Begindatum                      | Datum                          |                          | Ja             |           |
+| Belastingklasse                 | BelastingklasseDIN19580_EN1433 |                          | Ja             |           |
+| Bergend oppervlak               | Decimaal                       |                          | Ja             |           |
+| Bergend vermogen                | Decimaal                       |                          | Ja             |           |
+| Constructie-onderdeeloriëntatie |                                |                          | Ja             |           |
+| Breedte                         | Integer                        |                          | Ja             |           |
+| Einddatum                       | Datum                          |                          | Ja             |           |
+| Hoogte                          | Integer                        |                          | Ja             |           |
+| Infiltrerend oppervlak          | Decimaal                       |                          | Ja             |           |
+| Lengte                          | Integer                        |                          | Ja             |           |
+| Revisietekening                 | Tekst                          |                          | Ja             |           |
+| Status functioneren             | StatusFunctioneren             |                          | Ja             |           |
+| Theoretische levensduur         | Datum                          |                          | Ja             |           |
+| Uitstroomniveau                 | Decimaal                       |                          | Ja             |           |
 
 Aan een infiltratiekoffer worden de volgende nieuwe onderdelen toegevoegd:
 - Substraat
@@ -473,4 +473,5 @@ Infiltratievoorzieningen zijn objecten op de grenzen van het werkveld van de ste
 | Halfverharding              | Verharding                           | Een halfverharding bestaande uit substraat met een hoge porositeit, waarin het hemelwater tijdelijk wordt geborgen en waarbij het hemelwater via de bodem en wanden van het de halfverharding infiltreert in de ondergrond. Ook kan het hemelwater worden afgevoerd naar een onderliggende constructielaag, infiltratiekoffer of infiltratie-unit. |
 | Infiltratiekoffer           | Constructielaag                      | Een in de ondergrond aangebrachte constructielaag met substraat met een hoge porositeit, waarin het hemelwater wordt verdeeld over de constructielaag en daarin tijdelijk wordt geborgen, waarbij het hemelwater via de bodem en wanden infiltreert in de ondergrond of onderliggende infiltratiekoffer of infiltratie-unit.                       |
 
+ 
  
