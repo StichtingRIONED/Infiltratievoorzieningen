@@ -23,7 +23,7 @@ def get_files_in_folder(folder: Path, suffix: str = None) -> List[Path]:
     :return:
     """
     if not folder.exists():
-        raise FileNotFoundError('folder does not exist')
+        folder.mkdir(parents=True, exist_ok=True)
 
     files = folder.iterdir()
     files = [file for file in files if file.is_file()]
