@@ -474,3 +474,11 @@ Infiltratievoorzieningen zijn objecten op de grenzen van het werkveld van de ste
 | Waterdoorlatende verharding | Verharding                           | Een waterpasserende elementenverharding waarbij het hemelwater via de uitsparingen in het element en de voeg wordt afgevoerd naar de onderliggende constructielaag, infiltratiekoffer of infiltratie-unit.                                                                                                                                         |
 | Halfverharding              | Verharding                           | Een halfverharding bestaande uit substraat met een hoge porositeit, waarin het hemelwater tijdelijk wordt geborgen en waarbij het hemelwater via de bodem en wanden van het de halfverharding infiltreert in de ondergrond. Ook kan het hemelwater worden afgevoerd naar een onderliggende constructielaag, infiltratiekoffer of infiltratie-unit. |
 | Infiltratiekoffer           | Constructielaag                      | Een in de ondergrond aangebrachte constructielaag met substraat met een hoge porositeit, waarin het hemelwater wordt verdeeld over de constructielaag en daarin tijdelijk wordt geborgen, waarbij het hemelwater via de bodem en wanden infiltreert in de ondergrond of onderliggende infiltratiekoffer of infiltratie-unit.                       |
+# Toepassing model: een voorbeeld
+
+In dit hoofdstuk wordt het datamodel voor infiltratievoorzieningen toegepast in een voorbeeld, ter illustratie voor een registratiewijze in een beheerapplicatie. Uiteraard geldt dit niet exact op deze wijze voor iedere beheerapplicatie, maar het is hier als hulpmiddel bedoeld.
+
+In hoofdstuk 3 zijn diverse typen infiltratievoorzieningen gevisualiseerd. In deze uitwerking is het type in onderstaande afbeelding nader uitgewerkt. Bij ieder object staat in _cursief_ een object-id.
+
+![voorbeeld wadi](media/voorzieningen/wadi-toepassing-voorbeeld.png)
+
