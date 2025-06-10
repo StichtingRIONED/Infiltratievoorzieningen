@@ -1,7 +1,7 @@
 [project]
 name = "beheer-infiltratievoorzieningen"
 version = "0.1.0"
-description = "Add your description here"
+description = "Uiteenzetting van infiltratievoorzieningen, hun kenmerken en onderdelen, t.b.v. ontwikkeling GWSW-module."
 requires-python = ">=3.13"
 dependencies = [
     "pypandoc>=1.15",
