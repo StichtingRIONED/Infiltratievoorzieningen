@@ -43,8 +43,10 @@ Ten aanzien van de onderdelen wordt nagegaan of hierin meer uniformering en vere
 ### Infiltratievoorzieningen en grondwatervoorzieningen in beheerapplicaties
 Samen met de begeleidingscommissie worden wensen voor registratie van infiltratievoorzieningen geïnventariseerd:
 - Wat is nodig voor goede registratie van de object- en systeemgegevens?
-- Wat is daarvoor nodig in het GWSW? (Er zijn ‘basis’- gegevens nodig over ligging en inhoud, maar ook meetgegevens om het onderhoud goed uit te voeren. Wat is er exact nodig?)
-- Wat is haalbaar om op te nemen in GWSW 1.7 (deadline maart 2025) of wat in een volgende GWSW-versie komt?
+- Wat is nodig voor goede registratie van de onderhouds- en beheergegevens (conditie, metingen)?
+- Wat is nodig voor analyse van (hydraulisch) functioneren?
+
+Op basis van de gegevensbehoefte zal samen met het GWSW modelleerteam van Stichting RIONED worden bepaald hoe dit in het GWSW-datamodel opgenomen kan worden en welke zaken bij voorkeur juist in het IMBOR (van CROW) terecht moet komen. IMBOR 2025 wordt in juni 2025 gepubliceerd, dus we zullen ons richten op de wijzigingsverzoeken voor de daaropvolgende versie. Geprobeerd wordt om zoveel mogelijk op te nemen in GWSW 1.7 (deadline augustus 2025) en anders in de eerstvolgende GWSW-versie.
 
 Vanuit deze inventarisatie wordt een voorstel gemaakt voor een exacte definitie, functie(s) en onderdelen van infiltratievoorzieningen. Deze worden zo opgesteld dat ze passen binnen GWSW en IMBOR en ook duidelijk is wat de aanpassing is t.o.v. de kennisbank en GWSW.
 
@@ -320,22 +322,22 @@ Een Infiltratiekoffer is een nieuw onderdeel van de GWSW. De kenmerken zijn echt
 
 Een Infiltratiekoffer heeft de volgende kenmerken:
 
-| Concept           | Kenmerk                         | Datatype                       | Definitie (indien nieuw) | Reeds in GWSW? | Opmerking |
-|-------------------|---------------------------------|--------------------------------|--------------------------|----------------|-----------|
-| Infiltratiekoffer | Begindatum                      | Datum                          |                          | Ja             |           |
-| Infiltratiekoffer | Belastingklasse                 | BelastingklasseDIN19580_EN1433 |                          | Ja             |           |
-| Infiltratiekoffer | Bergend oppervlak               | Decimaal                       |                          | Ja             |           |
-| Infiltratiekoffer | Bergend vermogen                | Decimaal                       |                          | Ja             |           |
-| Infiltratiekoffer | Constructie-onderdeeloriëntatie |                                |                          | Ja             |           |
-| Infiltratiekoffer | Breedte                         | Integer                        |                          | Ja             |           |
-| Infiltratiekoffer | Einddatum                       | Datum                          |                          | Ja             |           |
-| Infiltratiekoffer | Hoogte                          | Integer                        |                          | Ja             |           |
-| Infiltratiekoffer | Infiltrerend oppervlak          | Decimaal                       |                          | Ja             |           |
-| Infiltratiekoffer | Lengte                          | Integer                        |                          | Ja             |           |
-| Infiltratiekoffer | Revisietekening                 | Tekst                          |                          | Ja             |           |
-| Infiltratiekoffer | Status functioneren             | StatusFunctioneren             |                          | Ja             |           |
-| Infiltratiekoffer | Theoretische levensduur         | Datum                          |                          | Ja             |           |
-| Infiltratiekoffer | Uitstroomniveau                 | Decimaal                       |                          | Ja             |           |
+| Kenmerk                         | Datatype                       | Definitie (indien nieuw) | Reeds in GWSW? | Opmerking |
+|---------------------------------|--------------------------------|--------------------------|----------------|-----------|
+| Begindatum                      | Datum                          |                          | Ja             |           |
+| Belastingklasse                 | BelastingklasseDIN19580_EN1433 |                          | Ja             |           |
+| Bergend oppervlak               | Decimaal                       |                          | Ja             |           |
+| Bergend vermogen                | Decimaal                       |                          | Ja             |           |
+| Constructie-onderdeeloriëntatie |                                |                          | Ja             |           |
+| Breedte                         | Integer                        |                          | Ja             |           |
+| Einddatum                       | Datum                          |                          | Ja             |           |
+| Hoogte                          | Integer                        |                          | Ja             |           |
+| Infiltrerend oppervlak          | Decimaal                       |                          | Ja             |           |
+| Lengte                          | Integer                        |                          | Ja             |           |
+| Revisietekening                 | Tekst                          |                          | Ja             |           |
+| Status functioneren             | StatusFunctioneren             |                          | Ja             |           |
+| Theoretische levensduur         | Datum                          |                          | Ja             |           |
+| Uitstroomniveau                 | Decimaal                       |                          | Ja             |           |
 
 Aan een infiltratiekoffer worden de volgende nieuwe onderdelen toegevoegd:
 - Substraat
