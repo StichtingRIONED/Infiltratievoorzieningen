@@ -476,11 +476,161 @@ Infiltratievoorzieningen zijn objecten op de grenzen van het werkveld van de ste
 | Waterdoorlatende verharding | Verharding                           | Een waterpasserende elementenverharding waarbij het hemelwater via de uitsparingen in het element en de voeg wordt afgevoerd naar de onderliggende constructielaag, infiltratiekoffer of infiltratie-unit.                                                                                                                                         |
 | Halfverharding              | Verharding                           | Een halfverharding bestaande uit substraat met een hoge porositeit, waarin het hemelwater tijdelijk wordt geborgen en waarbij het hemelwater via de bodem en wanden van het de halfverharding infiltreert in de ondergrond. Ook kan het hemelwater worden afgevoerd naar een onderliggende constructielaag, infiltratiekoffer of infiltratie-unit. |
 | Infiltratiekoffer           | Constructielaag                      | Een in de ondergrond aangebrachte constructielaag met substraat met een hoge porositeit, waarin het hemelwater wordt verdeeld over de constructielaag en daarin tijdelijk wordt geborgen, waarbij het hemelwater via de bodem en wanden infiltreert in de ondergrond of onderliggende infiltratiekoffer of infiltratie-unit.                       |
+
+
 # Toepassing model: een voorbeeld
 
 In dit hoofdstuk wordt het datamodel voor infiltratievoorzieningen toegepast in een voorbeeld, ter illustratie voor een registratiewijze in een beheerapplicatie. Uiteraard geldt dit niet exact op deze wijze voor iedere beheerapplicatie, maar het is hier als hulpmiddel bedoeld.
 
-In hoofdstuk 3 zijn diverse typen infiltratievoorzieningen gevisualiseerd. In deze uitwerking is het type in onderstaande afbeelding nader uitgewerkt. Bij ieder object staat in _cursief_ een object-id.
+In hoofdstuk 3 zijn diverse typen infiltratievoorzieningen gevisualiseerd. In deze uitwerking is het type in onderstaande afbeelding nader uitgewerkt. Bij ieder object staat in cursief een object-id, bijvoorbeeld _wadi001_.
 
 ![voorbeeld wadi](media/voorzieningen/wadi-toepassing-voorbeeld.png)
 
+Alle ingevulde waarden zijn fictief en dienen enkel ter illustratie. De gegevens per objecttype zijn in de volgende tabellen weergegeven.
+
+**Infiltratievoorziening (Wadi)**
+
+| Attribuut               | Waarde      |
+|-------------------------|-------------|
+| Object id               | wadi0001    |
+| Objecttype              | Wadi        |
+| Begindatum              | 01-01-2020  |
+| Belastingklasse         | Klasse D400 |
+| Bergend oppervlak       |             |
+| Bergend vermogen        | 800         |
+| Bodemkwaliteit          |             |
+| Breedte bouwwerk        | 20000       |
+| Einddatum               |             |
+| Hoogte bouwwerk         | 3000        |
+| Infiltrerend oppervlak  | 400         |
+| Lengte bouwwerk         | 20000       |
+| Materiaal bouwwerk      |             |
+| Retentiewaarde          | 4           |
+| Revisietekening         | t.0001      |
+| Status functioneren     | In gebruik  |
+| Taludhelling            | 1: 5        |
+| Theoretische levensduur | 20          |
+| Vorm bouwwerk           | Rechthoekig |
+
+
+**Putten**
+
+| Attribuut                      | Waarde                   | Waarde                     | Waarde                   | Waarde                   |
+|--------------------------------|--------------------------|----------------------------|--------------------------|--------------------------|
+| Object id                      | kolk001                  | kolk002                    | slokop001                | put001                   |
+| Objecttype                     | Kolk                     | Kolk                       | Slokop                   | Drainput                 |
+| Onderdeel van                  | wadi001                  | wadi001                    | wadi001                  | wadi001                  |
+| Aansluitingszijde              | Aansluiting aan voorkant | Aansluiting aan achterkant |                          |                          |
+| Adresgegevens                  |                          |                            |                          |                          |
+| Begindatum                     | 01-01-2020               | 01-01-2020                 | 01-01-2020               | 01-01-2020               |
+| Breedte put                    | 300                      | 300                        | 300                      | 600                      |
+| Diameter put                   |                          |                            |                          | 600                      |
+| Einddatum                      |                          |                            |                          |                          |
+| Hoogte put                     | 600                      | 600                        | 600                      | 2500                     |
+| Lengte put                     | 300                      | 300                        | 300                      | 600                      |
+| Materiaal put                  | Beton                    | Beton                      | Beton                    | Beton                    |
+| Revisietekening                | t.12345                  | t.23456                    | t.01543                  | t.64324                  |
+| Status functioneren            | In gebruik               | In gebruik                 | In gebruik               | In gebruik               |
+| Theoretische levensduur        | 30                       | 30                         | 30                       | 30                       |
+| Verwachte type reiniging (ECM) | Handmatig                | Handmatig                  |                          |                          |
+| Vorm put                       | Rechthoekig              | Rechthoekig                | Rechthoekig              | Rechthoekig              |
+| WIBON thema                    | Riool vrijverval (thema) | Riool vrijverval (thema)   | Riool vrijverval (thema) | Riool vrijverval (thema) |
+| Wanddikte                      |                          |                            |                          |                          |
+| Maaiveldhoogte                 | 3,00                     | 2,75                       | 2,90                     | 3,00                     |
+
+
+**Leidingen**
+
+| Attribuut                    | Waarde          | Waarde           | Waarde          | Waarde              |
+|------------------------------|-----------------|------------------|-----------------|---------------------|
+| Object id                    | leiding001      | leiding002       | leiding003      | leiding004          |
+| Objecttype                   | Hemelwaterriool | Infiltratieriool | Hemelwaterriool | Kolkaansluitleiding |
+| Onderdeel van                | wadi001         | wadi001          | wadi001         | wadi001             |
+| Aantal woningen              |                 |                  |                 |                     |
+| Afvoerend oppervlak          |                 |                  |                 |                     |
+| Begindatum                   | 01-01-2020      | 01-01-2020       | 01-01-2020      | 01-01-2020          |
+| Beginpunt leiding            | kolk001         | koffer002        | put001          | slokop001           |
+| Bob beginpunt leiding        | 2,6             | 1,10             | 1,70            | 2,5                 |
+| Bob eindpunt leiding         | 2,35            | 1,10             | 1,70            | 2,0                 |
+| Breedte leiding              |                 |                  |                 |                     |
+| Continue lozing              |                 |                  |                 |                     |
+| Diameter leiding             | 315             | 400              | 400             | 315                 |
+| Doorlaatbaarheid             |                 | 1                |                 |                     |
+| Drukklasse                   |                 |                  |                 |                     |
+| Einddatum                    |                 |                  |                 |                     |
+| Eindpunt leiding             | kolk002         | put001           | uit001          | put001              |
+| Hoogte leiding               |                 |                  |                 |                     |
+| Kleur                        |                 |                  |                 |                     |
+| Lateraal afvoerend oppervlak |                 |                  |                 |                     |
+| Lateraal debiet HWA          |                 |                  |                 |                     |
+| Lengte leiding               | 2               | 6                | 1,5             | 1,5                 |
+| Materiaal leiding            | PVC             | Beton            | Beton           | PVC                 |
+| Profiel leiding              |                 |                  |                 |                     |
+| Revisietekening              | r.76876         | r.3954           | r.21245         | r.12465             |
+| SDR-waarde                   |                 |                  |                 |                     |
+| Status functioneren          | In gebruik      | In gebruik       | In gebruik      | In gebruik          |
+| Theoretische levensduur      | 30              | 30               | 30              | 30                  |
+| Toegankelijk                 |                 |                  |                 |                     |
+| Verbindingstype              |                 |                  |                 |                     |
+| Voegmateriaal                |                 |                  |                 |                     |
+| Vorm leiding                 | Rond            | Rond             | Rond            | Rond                |
+| WIBON thema                  |                 |                  |                 |                     |
+| Wanddikte                    |                 |                  |                 |                     |
+| Wandruwheid binnenboven      |                 |                  |                 |                     |
+| Wandruwheid binnenonder      |                 |                  |                 |                     |
+| Wandruwheid                  |                 |                  |                 |                     |
+
+
+**Infiltratiekoffers**
+
+| Attribuut                    | Waarde            | Waarde            |
+|------------------------------|-------------------|-------------------|
+| Object id                    | koffer001         | koffer002         |
+| Objecttype                   | Infiltratiekoffer | Infiltratiekoffer |
+| Onderdeel van                | wadi001           | wadi001           |
+| substraat                    | substraat001      | substraat002      |
+| Begindatum                   | 01-01-2020        | 01-01-2020        |
+| Belastingklasse              | Klasse D400       | Klasse D400       |
+| Bergend oppervlak            |                   |                   |
+| Bergend vermogen             | 4                 | 6                 |
+| Breedte                      | 4000              | 2000              |
+| Einddatum                    |                   |                   |
+| Hoogte                       | 200               | 1000              |
+| Infiltrerend oppervlak       | 20                | 6                 |
+| Lengte                       | 5000              | 3000              |
+| Revisietekening              | y.47785           | y.14554           |
+| Status functioneren          | In gebruik        | In gebruik        |
+| Theoretische levensduur      | 20                | 20                |
+| Uitstroomniveau              | 0                 | 0                 |
+| Niveau binnenonderkant knoop | 2,10              | 1,10              |
+
+**Compartiment**
+
+| Attribuut                    | Waarde       |
+|------------------------------|--------------|
+| Object id                    | comp001      |
+| Objecttype                   | Compartiment |
+| Onderdeel van                | wadi001      |
+| Aantal i.e. bedrijven        |              |
+| Aantal i.e. recreatie        |              |
+| Aantal woningen              |              |
+| Afvoerend oppervlak          |              |
+| Breedte compartiment         | 5000         |
+| Hoogte compartiment          | 700          |
+| Lateraal afvoerend oppervlak |              |
+| Lateraal debiet              |              |
+| Lengte compartiment          | 7000         |
+| Niveau binnenonderkant knoop | 2,3          |
+| Vorm compartiment            |              |
+
+
+**Substraat**
+
+| Attribuut           | Waarde       | Waarde       |
+|---------------------|--------------|--------------|
+| Object id           | substraat001 | substraat002 |
+| Objecttype          | Substraat    | Substraat    |
+| Onderdeel van       | koffer001    | koffer002    |
+| Doorlaatbaarheid    | 1            | 1            |
+| Porositeit          | 0,55         | 0,45         |
+| Materiaal substraat | Zand         | Lava         |
