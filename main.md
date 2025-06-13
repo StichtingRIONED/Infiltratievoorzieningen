@@ -150,19 +150,19 @@ In de visualisatie staan pijlen met diverse kleuren. Deze kleuren representeren 
 ![infiltratieberm](media/voorzieningen/infiltratieberm.png)
 
 ### Infiltratierioolvoorziening
-![infiltratieriool](media/voorzieningen/infiltratierioolvoorziening.png)
+![infiltratieriool](media/voorzieningen/infiltratieriool.png)
 
 ### Infiltratieputvoorziening
-![infiltratieput](media/voorzieningen/infiltratieputvoorziening.png)
+![infiltratieput](media/voorzieningen/infiltratieput.png)
 
 ### Infiltratiekolkvoorziening
-![infiltratiekolk](media/voorzieningen/infiltratiekolkvoorziening.png)
+![infiltratiekolk](media/voorzieningen/infiltratiekolk.png)
 
 ### Infiltratie-unit
 ![infiltratie-unit](media/voorzieningen/infiltratie-unit.png)
 
 ### Infiltratiekoffervoorziening
-![infiltratiekoffer](media/voorzieningen/infiltratiekoffervoorziening.png)
+![infiltratiekoffer](media/voorzieningen/infiltratiekoffer.png)
 
 ### Waterdoorlatende verharding
 ![waterdoorlatende verharding](media/voorzieningen/waterdoorlatendeverharding.png)
