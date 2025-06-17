@@ -149,19 +149,19 @@ In de visualisatie staan pijlen met diverse kleuren. Deze kleuren representeren 
 ### Infiltratieberm
 ![infiltratieberm](media/voorzieningen/infiltratieberm.png)
 
-### Infiltratierioolvoorziening
+### Infiltratieriool
 ![infiltratieriool](media/voorzieningen/infiltratieriool.png)
 
-### Infiltratieputvoorziening
+### Infiltratieput
 ![infiltratieput](media/voorzieningen/infiltratieput.png)
 
-### Infiltratiekolkvoorziening
+### Infiltratiekolk
 ![infiltratiekolk](media/voorzieningen/infiltratiekolk.png)
 
 ### Infiltratie-unit
 ![infiltratie-unit](media/voorzieningen/infiltratie-unit.png)
 
-### Infiltratiekoffervoorziening
+### Infiltratiekoffer
 ![infiltratiekoffer](media/voorzieningen/infiltratiekoffer.png)
 
 ### Waterdoorlatende verharding
@@ -211,7 +211,7 @@ Onderstaande tabel bevat de definities van de drie typen infiltratievoorzieninge
 
 | Hoofdtype                           | Definitie                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Groen infiltratieveld               | Een begroeide, onverharde verlaging in het maaiveld (wadi, veld, berm, greppel of sloot), waarin het hemelwater tijdelijk wordt geborgen en waarbij het hemelwater via een waterdoorlatende (zuiverende) bodempassage infiltreert in de ondergrond. In de ondergrond onder de bodempassage kan een infiltratiekoffer en/of infiltratiekrat aanwezig zijn. Bij overbelasting en voor de vertraagde leegloop van de voorziening kunnen onderdelen (drainage, noodoverstort, slokop etc.) zijn aangebracht voor het reguleren van hemelwater- en grondwater.                                                                                                                                                                                     |
+| Groene infiltratievoorziening       | Een begroeide, onverharde verlaging in het maaiveld (wadi, veld, berm, greppel of sloot), waarin het hemelwater tijdelijk wordt geborgen en waarbij het hemelwater via een waterdoorlatende (zuiverende) bodempassage infiltreert in de ondergrond. In de ondergrond onder de bodempassage kan een infiltratiekoffer en/of infiltratiekrat aanwezig zijn. Bij overbelasting en voor de vertraagde leegloop van de voorziening kunnen onderdelen (drainage, noodoverstort, slokop etc.) zijn aangebracht voor het reguleren van hemelwater- en grondwater.                                                                                                                                                                                     |
 | Ondergrondse infiltratievoorziening | Een ondergrondse voorziening (infiltratieriool, infiltratieput, infiltratiekolk, infiltratiekrat, -koffer en/of bassin) met waterdoorlatende wanden, waarin het hemelwater wordt ingezameld, getransporteerd en tijdelijk wordt geborgen en waarbij het hemelwater via de wanden en bodem infiltreert in de ondergrond. Bij overbelasting en voor de vertraagde leegloop van de voorziening kunnen onderdelen (drainage, noodoverstort, slokop etc.) zijn aangebracht voor het reguleren van hemelwater- en grondwater.                                                                                                                                                                                                                       |
 | Infiltrerende wegconstructie        | Een verharding (doorlatend, passerend, halfverharding of traditioneel uitgevoerde verharding) op een constructielaag, met daar direct onder een infiltratiekoffer (fundatie/cunet met substraat met een hoge porositeit) of een infiltratiekrat. Het hemelwater wordt via een waterpasserende verharding, waterdoorlatende verharding, halfverharding, kolken met infiltratieriool en/of infiltratiegoot in het cunet of de infiltratiekrat gebracht en geborgen, waarbij het hemelwater via de bodem en wanden infiltreert in de ondergrond. Bij overbelasting en voor de vertraagde leegloop van de voorziening kunnen onderdelen (drainage, noodoverstort, slokop etc.) zijn aangebracht voor het reguleren van hemelwater- en grondwater. |
 
@@ -219,7 +219,7 @@ Onderstaande tabel toont de indeling van bestaande benamingen uit de kennisbank 
 
 | Type                                | Kennisbank benamingen                                                                                                              | GWSW benamingen                                                                                                                              |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| Groen infiltratieveld               | Wadi, Infiltratieveld, Greppel, Infiltratieberm en (infiltrerende) berm                                                            | Wadi, Infiltratiegreppel, Bermsloot                                                                                                          |
+| Groene infiltratievoorziening       | Wadi, Infiltratieveld, Greppel, Infiltratieberm en (infiltrerende) berm                                                            | Wadi, Infiltratiegreppel, Bermsloot                                                                                                          |
 | Ondergrondse infiltratievoorziening | Infiltratieriool, Infiltratieput, Infiltratiekolk, Infiltratie-unit, Infiltratiekoffer, Infiltratie-element                        | Infiltratieriool, Infiltratieput, Infiltratiekolk, Infiltratiekoffer, Grindkoffer, Lavakoffer, Zandkoffer, Steenwolkoffer, Infiltratiebassin |
 | Infiltrerende wegconstructie        | Waterdoorlatende verharding (poreuze steen), Waterdoorlatende verharding (infiltrerende voeg, Halfverharding en Infiltrerend Cunet | Infiltratiegoot                                                                                                                              |
 
@@ -338,6 +338,7 @@ Een Infiltratiekoffer heeft de volgende kenmerken:
 | Status functioneren             | StatusFunctioneren             |                          | Ja             |           |
 | Theoretische levensduur         | Datum                          |                          | Ja             |           |
 | Uitstroomniveau                 | Decimaal                       |                          | Ja             |           |
+| WIBON thema                     | WIBON thema                    |                          | Ja             |           |
 
 Aan een infiltratiekoffer worden de volgende nieuwe onderdelen toegevoegd:
 - Substraat
@@ -541,68 +542,69 @@ Alle ingevulde waarden zijn fictief en dienen enkel ter illustratie. De gegevens
 
 **Leidingen**
 
-| Attribuut                    | Waarde          | Waarde           | Waarde          | Waarde              |
-|------------------------------|-----------------|------------------|-----------------|---------------------|
-| Object id                    | leiding001      | leiding002       | leiding003      | leiding004          |
-| Objecttype                   | Hemelwaterriool | Infiltratieriool | Hemelwaterriool | Kolkaansluitleiding |
-| Onderdeel van                | wadi001         | wadi001          | wadi001         | wadi001             |
-| Aantal woningen              |                 |                  |                 |                     |
-| Afvoerend oppervlak          |                 |                  |                 |                     |
-| Begindatum                   | 01-01-2020      | 01-01-2020       | 01-01-2020      | 01-01-2020          |
-| Beginpunt leiding            | kolk001         | koffer002        | put001          | slokop001           |
-| Bob beginpunt leiding        | 2,6             | 1,10             | 1,70            | 2,5                 |
-| Bob eindpunt leiding         | 2,35            | 1,10             | 1,70            | 2,0                 |
-| Breedte leiding              |                 |                  |                 |                     |
-| Continue lozing              |                 |                  |                 |                     |
-| Diameter leiding             | 315             | 400              | 400             | 315                 |
-| Doorlaatbaarheid             |                 | 1                |                 |                     |
-| Drukklasse                   |                 |                  |                 |                     |
-| Einddatum                    |                 |                  |                 |                     |
-| Eindpunt leiding             | kolk002         | put001           | uit001          | put001              |
-| Hoogte leiding               |                 |                  |                 |                     |
-| Kleur                        |                 |                  |                 |                     |
-| Lateraal afvoerend oppervlak |                 |                  |                 |                     |
-| Lateraal debiet HWA          |                 |                  |                 |                     |
-| Lengte leiding               | 2               | 6                | 1,5             | 1,5                 |
-| Materiaal leiding            | PVC             | Beton            | Beton           | PVC                 |
-| Profiel leiding              |                 |                  |                 |                     |
-| Revisietekening              | r.76876         | r.3954           | r.21245         | r.12465             |
-| SDR-waarde                   |                 |                  |                 |                     |
-| Status functioneren          | In gebruik      | In gebruik       | In gebruik      | In gebruik          |
-| Theoretische levensduur      | 30              | 30               | 30              | 30                  |
-| Toegankelijk                 |                 |                  |                 |                     |
-| Verbindingstype              |                 |                  |                 |                     |
-| Voegmateriaal                |                 |                  |                 |                     |
-| Vorm leiding                 | Rond            | Rond             | Rond            | Rond                |
-| WIBON thema                  |                 |                  |                 |                     |
-| Wanddikte                    |                 |                  |                 |                     |
-| Wandruwheid binnenboven      |                 |                  |                 |                     |
-| Wandruwheid binnenonder      |                 |                  |                 |                     |
-| Wandruwheid                  |                 |                  |                 |                     |
+| Attribuut                    | Waarde                   | Waarde                   | Waarde                   | Waarde                   |
+|------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Object id                    | leiding001               | leiding002               | leiding003               | leiding004               |
+| Objecttype                   | Hemelwaterriool          | Infiltratieriool         | Hemelwaterriool          | Kolkaansluitleiding      |
+| Onderdeel van                | wadi001                  | wadi001                  | wadi001                  | wadi001                  |
+| Aantal woningen              |                          |                          |                          |                          |
+| Afvoerend oppervlak          |                          |                          |                          |                          |
+| Begindatum                   | 01-01-2020               | 01-01-2020               | 01-01-2020               | 01-01-2020               |
+| Beginpunt leiding            | kolk001                  | koffer002                | put001                   | slokop001                |
+| Bob beginpunt leiding        | 2,6                      | 1,10                     | 1,70                     | 2,5                      |
+| Bob eindpunt leiding         | 2,35                     | 1,10                     | 1,70                     | 2,0                      |
+| Breedte leiding              |                          |                          |                          |                          |
+| Continue lozing              |                          |                          |                          |                          |
+| Diameter leiding             | 315                      | 400                      | 400                      | 315                      |
+| Doorlaatbaarheid             |                          | 1                        |                          |                          |
+| Drukklasse                   |                          |                          |                          |                          |
+| Einddatum                    |                          |                          |                          |                          |
+| Eindpunt leiding             | kolk002                  | put001                   | uit001                   | put001                   |
+| Hoogte leiding               |                          |                          |                          |                          |
+| Kleur                        |                          |                          |                          |                          |
+| Lateraal afvoerend oppervlak |                          |                          |                          |                          |
+| Lateraal debiet HWA          |                          |                          |                          |                          |
+| Lengte leiding               | 2                        | 6                        | 1,5                      | 1,5                      |
+| Materiaal leiding            | PVC                      | Beton                    | Beton                    | PVC                      |
+| Profiel leiding              |                          |                          |                          |                          |
+| Revisietekening              | r.76876                  | r.3954                   | r.21245                  | r.12465                  |
+| SDR-waarde                   |                          |                          |                          |                          |
+| Status functioneren          | In gebruik               | In gebruik               | In gebruik               | In gebruik               |
+| Theoretische levensduur      | 30                       | 30                       | 30                       | 30                       |
+| Toegankelijk                 |                          |                          |                          |                          |
+| Verbindingstype              |                          |                          |                          |                          |
+| Voegmateriaal                |                          |                          |                          |                          |
+| Vorm leiding                 | Rond                     | Rond                     | Rond                     | Rond                     |
+| WIBON thema                  | Riool vrijverval (thema) | Riool vrijverval (thema) | Riool vrijverval (thema) | Riool vrijverval (thema) |
+| Wanddikte                    |                          |                          |                          |                          |
+| Wandruwheid binnenboven      |                          |                          |                          |                          |
+| Wandruwheid binnenonder      |                          |                          |                          |                          |
+| Wandruwheid                  |                          |                          |                          |                          |
 
 
 **Infiltratiekoffers**
 
-| Attribuut                    | Waarde            | Waarde            |
-|------------------------------|-------------------|-------------------|
-| Object id                    | koffer001         | koffer002         |
-| Objecttype                   | Infiltratiekoffer | Infiltratiekoffer |
-| Onderdeel van                | wadi001           | wadi001           |
-| substraat                    | substraat001      | substraat002      |
-| Begindatum                   | 01-01-2020        | 01-01-2020        |
-| Belastingklasse              | Klasse D400       | Klasse D400       |
-| Bergend oppervlak            |                   |                   |
-| Bergend vermogen             | 4                 | 6                 |
-| Breedte                      | 4000              | 2000              |
-| Einddatum                    |                   |                   |
-| Hoogte                       | 200               | 1000              |
-| Infiltrerend oppervlak       | 20                | 6                 |
-| Lengte                       | 5000              | 3000              |
-| Revisietekening              | y.47785           | y.14554           |
-| Status functioneren          | In gebruik        | In gebruik        |
-| Theoretische levensduur      | 20                | 20                |
-| Uitstroomniveau              | 0                 | 0                 |
-| Niveau binnenonderkant knoop | 2,10              | 1,10              |
+| Attribuut                    | Waarde                   | Waarde                   |
+|------------------------------|--------------------------|--------------------------|
+| Object id                    | koffer001                | koffer002                |
+| Objecttype                   | Infiltratiekoffer        | Infiltratiekoffer        |
+| Onderdeel van                | wadi001                  | wadi001                  |
+| substraat                    | substraat001             | substraat002             |
+| Begindatum                   | 01-01-2020               | 01-01-2020               |
+| Belastingklasse              | Klasse D400              | Klasse D400              |
+| Bergend oppervlak            |                          |                          |
+| Bergend vermogen             | 4                        | 6                        |
+| Breedte                      | 4000                     | 2000                     |
+| Einddatum                    |                          |                          |
+| Hoogte                       | 200                      | 1000                     |
+| Infiltrerend oppervlak       | 20                       | 6                        |
+| Lengte                       | 5000                     | 3000                     |
+| Revisietekening              | y.47785                  | y.14554                  |
+| Status functioneren          | In gebruik               | In gebruik               |
+| Theoretische levensduur      | 20                       | 20                       |
+| Uitstroomniveau              | 0                        | 0                        |
+| Niveau binnenonderkant knoop | 2,10                     | 1,10                     |
+| WIBON thema                  | Riool vrijverval (thema) | Riool vrijverval (thema) |
 
 **Compartiment**
 
@@ -634,3 +636,15 @@ Alle ingevulde waarden zijn fictief en dienen enkel ter illustratie. De gegevens
 | Doorlaatbaarheid    | 1            | 1            |
 | Porositeit          | 0,55         | 0,45         |
 | Materiaal substraat | Zand         | Lava         |
+
+
+**Omhulling**
+
+| Attribuut           | Waarde                    |
+|---------------------|---------------------------|
+| Object id           | omhulling001              |
+| Objecttype          | Omhulling                 |
+| Onderdeel van       | koffer002                 |
+| Materiaal omhulling | Nylon                     |
+| Doorlaatbaarheid    | 1                         |
+| Waterdichtheid      | Tweezijdig doorlatendheid |
