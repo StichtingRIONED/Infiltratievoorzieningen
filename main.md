@@ -7,6 +7,8 @@
 
 Stichting RIONED is initiatiefnemer en eigenaar van dit GitHub-project, Eric Oosterom is de verantwoordelijk projectmanager.
 
+HUIDIGE STATUS: Dit is een concept-beschrijving die nog niet behandeld is door de GWSW modelleurs, niet is besproken door de werkgroep GWSW-Basis, nog niet  publiek geconsulteerd is en dus nog geen enkele formele status heeft. Deze stappen zullen in Q3 en Q4 2025 doorlopen worden en dit deelmodel GWSW Infiltratievoorzieningen is beoogd zoveel mogelijk opgenomen te worden in GWSW versie 1.7 per januari 2026. 
+
 Vragen over deze website en het GWSW kunt u stellen via gwsw@rioned.org.
 
 # Inleiding
@@ -46,7 +48,7 @@ Samen met de begeleidingscommissie worden wensen voor registratie van infiltrati
 - Wat is nodig voor goede registratie van de onderhouds- en beheergegevens (conditie, metingen)?
 - Wat is nodig voor analyse van (hydraulisch) functioneren?
 
-Op basis van de gegevensbehoefte zal samen met het GWSW modelleerteam van Stichting RIONED worden bepaald hoe dit in het GWSW-datamodel opgenomen kan worden en welke zaken bij voorkeur juist in het IMBOR (van CROW) terecht moet komen. IMBOR 2025 wordt in juni 2025 gepubliceerd, dus we zullen ons richten op de wijzigingsverzoeken voor de daaropvolgende versie. Geprobeerd wordt om zoveel mogelijk op te nemen in GWSW 1.7 (deadline augustus 2025) en anders in de eerstvolgende GWSW-versie.
+Op basis van de hier gespecificeerde gegevensbehoefte zal met het GWSW modelleerteam van Stichting RIONED worden bepaald hoe dit in het GWSW-datamodel opgenomen kan worden en welke zaken bij voorkeur juist in het IMBOR (van CROW) terecht moet komen. IMBOR 2025 wordt in juni 2025 gepubliceerd, dus we zullen ons richten op de wijzigingsverzoeken voor de daaropvolgende versie. Geprobeerd wordt om zoveel mogelijk op te nemen in GWSW 1.7 (deadline augustus 2025) en anders in de eerstvolgende GWSW-versie.
 
 Vanuit deze inventarisatie wordt een voorstel gemaakt voor een exacte definitie, functie(s) en onderdelen van infiltratievoorzieningen. Deze worden zo opgesteld dat ze passen binnen GWSW en IMBOR en ook duidelijk is wat de aanpassing is t.o.v. de kennisbank en GWSW.
 
@@ -316,7 +318,7 @@ Een infiltratievoorziening is het geheel der delen, waarbij ieder onderdeel apar
 
 ### Infiltratiekoffer
 
-Een Infiltratiekoffer is een nieuw onderdeel van de GWSW. De kenmerken zijn echter gebaseerd op reeds bestaande onderdelen grindkoffer, lavakoffer etc. Aangezien het een nieuw onderdele betreft is de beschrijving van dit onderdeel volledig uitgewerkt. De infiltratiekoffer heeft de volgende functies:
+Een Infiltratiekoffer is een nieuw onderdeel van de GWSW. De kenmerken zijn echter gebaseerd op reeds bestaande onderdelen grindkoffer, lavakoffer etc. Aangezien het een nieuw onderdeel betreft is de beschrijving van dit onderdeel volledig uitgewerkt. De infiltratiekoffer heeft de volgende functies:
 - Afvoeren hemelwater naar de ondergrond
 - Tijdelijke berging van hemelwater
 
