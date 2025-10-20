@@ -50,7 +50,7 @@ Samen met de begeleidingscommissie worden wensen voor registratie van infiltrati
 - Wat is nodig voor goede registratie van de onderhouds- en beheergegevens (conditie, metingen)?
 - Wat is nodig voor analyse van (hydraulisch) functioneren?
 
-Op basis van de gegevensbehoefte zal samen met het GWSW modelleerteam van Stichting RIONED worden bepaald hoe dit in het GWSW-datamodel opgenomen kan worden en welke zaken bij voorkeur juist in het IMBOR (van CROW) terecht moet komen. IMBOR 2025 wordt in juni 2025 gepubliceerd, dus we zullen ons richten op de wijzigingsverzoeken voor de daaropvolgende versie. Geprobeerd wordt om zoveel mogelijk op te nemen in GWSW 1.7 (deadline augustus 2025) en anders in de eerstvolgende GWSW-versie.
+Op basis van de gegevensbehoefte zal samen met het GWSW-modelleerteam van Stichting RIONED worden bepaald hoe dit in het GWSW-datamodel opgenomen kan worden en welke zaken in het IMBOR (van CROW) terechtkomen. IMBOR 2025 is in juli 2025 gepubliceerd, dus we zullen ons richten op de wijzigingsverzoeken voor de daaropvolgende versie. Geprobeerd wordt om zoveel mogelijk op te nemen in GWSW 1.7 (deadline maart 2026). Vanuit het GWSW zal zoveel mogelijk dan automatisch ook in IMBOR Stedelijk Water opgenomen worden per volgende IMBOR-release.
 
 Vanuit deze inventarisatie wordt een voorstel gemaakt voor een exacte definitie, functie(s) en onderdelen van infiltratievoorzieningen. Deze worden zo opgesteld dat ze passen binnen GWSW en IMBOR en ook duidelijk is wat de aanpassing is t.o.v. de kennisbank en GWSW.
 
