@@ -9,6 +9,10 @@ Stichting RIONED is initiatiefnemer en eigenaar van dit GitHub-project, Eric Oos
 
 Vragen over deze website en het GWSW kunt u stellen via gwsw@rioned.org.
 
+**Status document**
+
+Dit is een concept-beschrijving die nog niet behandeld is door de GWSW modelleurs, niet is besproken door de werkgroep GWSW-Basis, nog niet publiek geconsulteerd is en dus nog geen enkele formele status heeft. Deze stappen zullen in Q3 en Q4 2025 doorlopen worden en dit deelmodel GWSW Infiltratievoorzieningen is beoogd zoveel mogelijk opgenomen te worden in GWSW versie 1.7 per januari 2026.
+
 # Inleiding
 
 ## Aanleiding
