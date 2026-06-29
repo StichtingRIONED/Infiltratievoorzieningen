@@ -457,13 +457,9 @@ De kenmerken en onderdelen van een infiltrerende wegconstructie zijn nagenoeg id
 
 Het huidige concept Inwinning wordt een kenmerk van Doorlaatbaarheid, Porositeit, Bodemkwaliteit, Retentiewaarde, Bergend vermogen, Bodemkwaliteit en Theoretische levensduur.
 
-### Doorlaatbaarheid
-
-Een synoniem van Doorlaatbaarheid is Infiltratiecapaciteit.
-
 ### Beheeractiviteiten
 
-De inspecteerbaarheid, reinigbaarheid  en wijze van onderhouden van infiltratievoorzieningen is een belangrijk gegeven voor het behouden van goed functionerende infiltratievoorzieningen. Op dit moment is echter nog niet nagegaan welke inspectie- en reinigingsmethoden van toepassing kunnen zijn. 
+De inspecteerbaarheid, reinigbaarheid en wijze van onderhouden van infiltratievoorzieningen is een belangrijk gegeven voor het behouden van goed functionerende infiltratievoorzieningen. Op dit moment is echter nog niet nagegaan welke inspectie- en reinigingsmethoden van toepassing kunnen zijn. 
 
 ### Bodemkwaliteit
 
