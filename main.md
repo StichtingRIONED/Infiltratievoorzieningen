@@ -11,7 +11,7 @@ Vragen over deze website en het GWSW kunt u stellen via gwsw@rioned.org.
 
 **Status document**
 
-Dit is een concept-beschrijving die nog niet behandeld is door de GWSW modelleurs, niet is besproken door de werkgroep GWSW-Basis, nog niet publiek geconsulteerd is en dus nog geen enkele formele status heeft. Deze stappen zullen in Q3 en Q4 2025 doorlopen worden en dit deelmodel GWSW Infiltratievoorzieningen is beoogd zoveel mogelijk opgenomen te worden in GWSW versie 1.7 per januari 2026.
+Dit is een concept-beschrijving die is behandeld door de GWSW modelleurs, is besproken door de werkgroep GWSW-Basis, publiek geconsulteerd is en daarna als basis is gebruikt voor de datamodellering. Hieronder staat in grote lijnen de inhoud van het deelmodel. Onderstaande beschrijving heeft dus geen formele status. Het GWSW-datamodel op https://data.gwsw.nl is de formele release van dit deelmodel GWSW Infiltratievoorzieningen, dat is opgenomen in GWSW-versie 1.7 per augustus 2026.
 
 # Inleiding
 
