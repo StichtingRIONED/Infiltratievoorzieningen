@@ -28,15 +28,15 @@ var respecConfig =
       }
     ],
   otherLinks: [{
-    key: "GitHub", href: "https://github.com/stichtingrioned/Beheer_Infiltratievoorzieningen/"
+    key: "GitHub", href: "https://github.com/stichtingrioned/Infiltratievoorzieningen/"
   }],
   //github: "https://github.com/StichtingRIONED/GWSW"
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
   //issueBase: "https://github.com/StichtingRIONED/GWSW/issues/",
 
-  thisVersion: "https://stichtingrioned.github.io/Beheer_Infiltratievoorzieningen/",
+  thisVersion: "https://stichtingrioned.github.io/Infiltratievoorzieningen/",
   latestVersion: "", // gepubliceerde versie
-  edDraftURI: "https://stichtingrioned.github.io/Beheer_Infiltratievoorzieningen/", // werkversie
+  edDraftURI: "https://stichtingrioned.github.io/Infiltratievoorzieningen/", // werkversie
 
   maxTocLevel: 3, // Aantal niveau's ToC, default is 0/geen limiet
   level2: true, // mv: hoofdstuk-nummering alleen voor de subsections (20210212)
